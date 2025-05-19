@@ -1,0 +1,2844 @@
+{
+  "ciclos": [
+    {
+      "nombre": "Primer Ciclo",
+      "materias": [
+        {
+          "id": 1,
+          "nombre": "ANATOMIA HUMANA - NEUROANATOMIA CLINICA",
+          "sigla": "MED-100",
+          "carga_horaria": "400 hrs anuales",
+          "teoria": "2 hrs semanales",
+          "practica": "8 hrs semanales",
+          "meses": "10 meses",
+          "prerequisitos": "Ninguno",
+          "marco_refencial": "La Cátedra de Anatomía Humana y Neuroanatomia Clinica, es una asignatura que se cursa en el primer año de la carrera de Medicina, siendo esta asignatura la base de la medicina, pues la fisiología, la patología, la semiología y la terapéutica requieren de su conocimiento y del correcto uso del lenguaje anatómico.",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "MIEMBROS APENDICULARES",
+              "capitulos": [
+                "CAPITULO 1: Generalidades de la Anatomía Humana Clínica",
+                "CAPITULO 2: Osteología del Miembro Superior",
+                "CAPITULO 3: Artrología del Miembro Superior",
+                "CAPITULO 4: Músculos del Hombro y Brazo",
+                "CAPITULO 5: Músculos del Antebrazo y Mano",
+                "CAPITULO 6: Inervación del Miembro Superior",
+                "CAPITULO 7: Irrigación del Miembro Superior",
+                "CAPITULO 8: Osteología del Miembro Inferior",
+                "CAPITULO 9: Artrología del Miembro Inferior",
+                "CAPITULO 10: Músculos de la Cadera y Muslo",
+                "CAPITULO 11: Músculos de la Pierna y Pie",
+                "CAPITULO 12: Inervación del Miembro Inferior",
+                "CAPITULO 13: Irrigación del Miembro Inferior"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "CABEZA Y CUELLO",
+              "capitulos": [
+                "CAPITULO 14: Huesos del Cráneo",
+                "CAPITULO 15: Huesos de la Cara",
+                "CAPITULO 16: Músculos Cutáneos de la Cabeza y Cuello, Región Epicraneal y Regiones de la Cabeza",
+                "CAPITULO 17: Región Temporal e Infratemporal",
+                "CAPITULO 18: Órgano de la Vista",
+                "CAPITULO 19: Órgano de la Audición",
+                "CAPITULO 20: Sentido del Olfato",
+                "CAPITULO 21: Cavidad Bucal",
+                "CAPITULO 22: Región Cervical Anterior",
+                "CAPITULO 23: Región Cervical Lateral",
+                "CAPITULO 24: Región Cervical Posterior",
+                "CAPITULO 25: Vísceras del Cuello"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERA UNIDAD",
+              "nombre_unidad": "NEUROANATOMIA",
+              "capitulos": [
+                "CAPITULO 26: Generalidades de Neuroanatomía",
+                "CAPITULO 27: Medula Espinal",
+                "CAPITULO 28: Tronco Encefálico y Tallo Cerebral",
+                "CAPITULO 29: Cerebelo y IV Ventrículo",
+                "CAPITULO 30: Diencéfalo y III Ventrículo",
+                "CAPITULO 31: Cerebro I: Configuración Externa",
+                "CAPITULO 32: Cerebro II: Configuración Interna",
+                "CAPITULO 33: Vías de Conducción Nerviosa I: Vías Motoras y Sensitivas",
+                "CAPITULO 34: Vías de Conducción Nerviosa II: Vías Sensoriales"
+              ]
+            },
+            {
+              "numero_unidad": "CUARTA UNIDAD",
+              "nombre_unidad": "TÓRAX - ABDOMEN",
+              "capitulos": [
+                "CAPITULO 35: Columna Vertebral y Dorso",
+                "CAPITULO 36: Pared Torácica",
+                "CAPITULO 37: Corazón y Pericardio",
+                "CAPITULO 38: Mediastino",
+                "CAPITULO 39: Tráquea, Bronquios y Pulmones",
+                "CAPITULO 40: Pared Anterolateral del abdomen",
+                "CAPITULO 41: Esófago Abdominal, Estomago y Peritoneo",
+                "CAPITULO 42: Duodeno, Páncreas y Bazo"
+              ]
+            },
+            {
+              "numero_unidad": "QUINTA UNIDAD",
+              "nombre_unidad": "ABDOMEN – PELVIS",
+              "capitulos": [
+                "CAPITULO 43: Hígado y Vías Biliares",
+                "CAPITULO 44: Yeyuno Íleon, Colon y Recto",
+                "CAPITULO 45: Aparato Urinario y Glándulas Suprarrenales",
+                "CAPITULO 46: Aparato Genital Masculino",
+                "CAPITULO 47: Aparato Genital Femenino",
+                "CAPITULO 48: Vasos y Nervios del Abdomen y Pelvis",
+                "CAPITULO 49: Periné y Pelvis Ósea"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "EMBRIOLOGÍA MÉDICA - GENÉTICA CLÍNICA",
+          "sigla": "MED-101",
+          "carga_horaria": "200 hrs",
+          "teoria": "1 hrs semanales",
+          "practica": "4 hrs semanales",
+          "meses": "5 meses",
+          "prerequisitos": "Anatomía Humana - Neuroanatomía Clínica",
+          "marco_refencial": "La Embriología y Genética Clínica, más que una asignatura es una amplia gama de enfoques multidisciplinarios sobre los problemas relacionados con el origen, crecimiento y desarrollo del individuo en el curso de su vida intrauterina. Estudia tanto los procesos normales, como los factores capaces de alterarlos; los cambios degenerativos y aquellos que condicionan la muerte celular o de los individuos. Se pretende desde un principio, la conceptualización de las disciplinas morfológicas en su aprendizaje y enseñanza conforme la enfoque de la Formación Basada en Competencias y motivar al alumno a relacionar, permanentemente, la forma con la función y la clínica pasando de lo orgánico a lo molecular, de lo joven a lo viejo, de lo normal a lo patológico, emprendiendo una permanente búsqueda de la causalidad de los hechos. La cátedra logrará que la Embriología y Genética Clínica sea accesible al estudiante de primer año, que proviene del sistema educativo, donde el proceso de memorización es el Standard más utilizado e introducirlo en otra forma de trabajo en la que adquiera habilidades para resolver problemas relacionados con la función laboral. Desarrollará en el estudiante y el docente la necesidad de realizar permanentemente la extensión, prolongación o interrelación con la comunidad llevando temas de inquietante problemática en Salud Pública que tienen que ver con el desarrollo humano, considerando a Embriología y Genética Clínica como una disciplina o asignatura de vida.En la enseñanza de la Genética Clínica es preciso formar conocimientos acerca de las características moleculares de la célula, incluyendo la actitud del DNA, RNA, ribosomas, etc., que constituyen parte del conjunto detallado en la herencia mendeliana, así como la explicación molecular de las neoplasias, pero fundamentalmente las habilidades que el futuro médico debe aprender para su función en esta importante rama del saber dentro de la atención en salud dentro del Primer Nivel de Atención.",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Embriología General",
+              "capitulos": [
+                "Capítulo 1: Imagen ecográfica básica.",
+                "Capítulo 2: Generalidades Del Desarrollo Humano",
+                "Capítulo 3: Anatomía De Los Órganos Reproductores Femeninos",
+                "Capítulo 4: Fisiología Del Aparato Reproductor Femenino. Integración Clínica con Síndrome de Ovario Poliquístico",
+                "Capítulo 5: Anatomía Del Aparato Reproductor Masculino.",
+                "Capítulo 6: Fisiología Del Aparato Reproductor Masculino. Integración Clínica. Antígeno prostático especifico y Cáncer de próstata",
+                "Capítulo 7: Bases Moleculares Del Desarrollo Embrionario",
+                "Capítulo 8: División Celular. Mitosis",
+                "Capítulo 9: Meiosis Integración Clínica. y consejería en Síndrome de Down",
+                "Capítulo 10: Gametogénesis",
+                "Capítulo 11: Primera Semana Del Desarrollo",
+                "Capítulo 12: Segunda Semana Del Desarrollo",
+                "Capítulo 13: Tercera Semana Del Desarrollo",
+                "Capítulo 14: Periodo Embrionario- Morfogénesis – Organogénesis. Integración Clínica. Síndrome TO.R.C.H.S.",
+                "Capítulo 15: Periodo Fetal. Integración Clínica. Caso clínico obstétrico. Valoración USHER",
+                "Capítulo 16: Decidua y Membranas Fetales",
+                "Capítulo 17: Desarrollo Y Fisiología De La Placenta. Integración Clínica. Modelo grafico de placenta (reconocimiento morfológico). Caso Clínico acretismo placentario",
+                "Capítulo 18: Educación Sexual Y Reproductiva. Aborto. Consejería Integración Clínica. Extensión Universitaria, Consejería y educación en Salud Sexual Reproductiva"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "Embriología Especial I",
+              "capitulos": [
+                "Capítulo 19: Desarrollo Del Sistema Esquelético",
+                "Capítulo 20: Desarrollo Del Sistema Muscular. Desarrollo de los miembros",
+                "Capítulo 21: Desarrollo De La Boca, Nariz Y Paladar. Aparato Faríngeo",
+                "Capítulo 22: Desarrollo Del Corazón",
+                "Capítulo 23: Desarrollo Del Sistema Arterial. Desarrollo del Sistema Venoso",
+                "Capítulo 24: Desarrollo Del Aparato Respiratorio",
+                "Capítulo 25: Desarrollo Del Sistema Endocrino.",
+                "Capítulo 26: Desarrollo Del Intestino Cefálico Desarrollo Del Intestino Medio Y Caudal",
+                "Capítulo 27: Desarrollo De Cavidades Corporales Y Del Diafragma",
+                "Capítulo 28: Desarrollo Del Sistema Urinario. Desarrollo del sistema genital"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERA UNIDAD",
+              "nombre_unidad": "Embriología Especial II - Desarrollo Del Sistema Nervioso Y Sentidos",
+              "capitulos": [
+                "Capítulo 29: Generalidades de La Embriología Del Sistema Nervioso. Desarrollo de la medula espinal y Mielencéfalo",
+                "Capítulo 30: Desarrollo Del Mesencéfalo, Metencéfalo, Diencéfalo, y Telencéfalo",
+                "Capítulo 31: Malformaciones Congénitas Del Sistema Nervioso. Desarrollo de Crestas Neurales. Desarrollo del sistema nervioso periférico",
+                "Capítulo 32: Desarrollo Del Aparato de La Visión",
+                "Capítulo 33: Desarrollo Del Aparato de La Audición",
+                "Capítulo 34: Desarrollo De La Piel y sus Anexos. Glándula Mamaria",
+                "Capítulo 35: Introducción a la Genética. Recursos de genética clínica en internet",
+                "Capítulo 36: Relación y Antecedentes Históricos de la Genética",
+                "Capítulo 37: Estructura, Función y Análisis Del Material Hereditario. Genómica",
+                "Capítulo 38: Patrones De La Herencia Humana. Identifica individuos a riesgo para una enfermedad Genética. (árbol genealógico y Conocer patrones de herencia mendeliana)",
+                "Capítulo 39: Genética Del Desarrollo y Test Genéticos. Conocer los distintos tipos de test genéticos",
+                "Capítulo 40: Herencia Multifactorial o Poligénica. Conocer las enfermedades genéticas más frecuentes en atención primaria y también las enfermedades raras del paciente del propio del médico de familia",
+                "Capítulo 41: Cromosomas. Anormalidades Cromosómicas (incluir teóricas de asesoramiento). Asesoramiento preconcepcional desde atención primaria. Conocer los servicios de Genética clínica y las unidades de cáncer hereditario de referencia y saber derivar a sus pacientes.",
+                "Capítulo 42: Rasgos Humanos de Dominancia y Recesividad. Examen de Fenotipos. Seguimiento clínico de pacientes con enfermedad genética",
+                "Capítulo 43: Genética y Cáncer (dividir en cuatro sesiones de teoría)",
+                "Capítulo 44: Malformaciones Congénitas. Teratología. Conocimiento de las técnicas de diagnóstico prenatal",
+                "Capítulo 45: Farmacogenética",
+                "Capítulo 46: El Proyecto Genoma Humano. Terapia Génica. Ingeniería Genética. Nueva Genética",
+                "Capítulo 47: Genética Forense. Conocer los límites ético y legales que implica conocer el status genético de una determinada persona de una familia.",
+                "Capítulo 48: Consideraciones Generales Sobre Terapia Génica. Organismos Genéticamente Modificados"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "LA CATEDRA DE HISTOLOGIA MEDICA - BIOLOGIA CELULAR",
+          "sigla": "MED-102",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "1 hrs semanales",
+          "practica": "4 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La mayor utilidad de un curso de Biología celular e Histología Medica en el plan curricular de la carrera de medicina, es aportar conocimientos básicos de aspectos de la estructura interna y funciones del organismo. En el cual se debe establecer las innumerables interrelaciones complejas que existe entre la estructura y la función de células y tejidos. Conocer la conducta de proliferación celular e interacciones de los más de 200 tipos celulares que junto con sus productos integran el organismo humano.  El estudiante al iniciar su preparación clínica podrá advertir con mayor nitidez la importancia que tiene el estudio detallado de los tejidos del cuerpo, por que en innumerables formas la histología prepara el terreno para las nuevas disciplinas que tratan de anormalidades en estructura y función",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Microscopia y Técnica Histológica",
+              "capitulos": [
+                "Capítulo 1: Microscopia y técnica histológica",
+                "Capítulo 2: Núcleo celular",
+                "Capítulo 3: Citoplasma celular",
+                "Capítulo 4: Tejido epitelial y glandular",
+                "Capítulo 5: Tejido conectivo"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "Tejidos y Sistemas Básicos",
+              "capitulos": [
+                "Capítulo 6: Tejido sanguíneo y hematopoyesis",
+                "Capítulo 7: Tejido óseo y cartilaginoso",
+                "Capítulo 8: Tejido muscular",
+                "Capítulo 9: Tejido nervioso",
+                "Capítulo 10: Sistema cardiovascular"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERA UNIDAD",
+              "nombre_unidad": "Sistemas Corporales",
+              "capitulos": [
+                "Capítulo 11: Sistema linfático",
+                "Capítulo 12: Sistema tegumentario",
+                "Capítulo 13: Sistema digestivo",
+                "Capítulo 14: Glándulas anexas del sistema digestivo",
+                "Capítulo 15: Sistema respiratorio"
+              ]
+            },
+            {
+              "numero_unidad": "CUARTA UNIDAD",
+              "nombre_unidad": "Sistemas Esenciales",
+              "capitulos": [
+                "Capítulo 16: Sistema urinario",
+                "Capítulo 17: Sistema endocrino",
+                "Capítulo 18: Sistema reproductor masculino",
+                "Capítulo 19: Sistema reproductor femenino",
+                "Capítulo 20: Sentidos especiales"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "SALUD PÙBLICA E INTERCULTURALIDAD",
+          "sigla": "MED-103",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "1 hrs semanales",
+          "practica": "3 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La Salud Pública e Interculturalidad es una asignatura del primer año, de la carrera de Medicina de la Universidad Pública de El Alto, hace el abordaje de contenidos temáticos para la prevención de enfermedades, así como para proteger, promover y recuperar la salud de las personas   en el ámbito individual, como en el colectivo mediante acciones sanitarias con enfoque intercultural;  después de finalizar la asignatura  el estudiante   tendrá la capacidad de identificar los factores económicos (pobreza, inequidades), los factores ambientales (contaminación, clima, destrucción del ecosistema), capacidad de aplicar principios y análisis éticos en el ejercicio clínico, capacidad de respetar la diversidad, capacidad de reconocer la estructura y funcionamiento del sistema de salud, capacidad de reconocer y aplicar las políticas  y programas de salud  del país, y capacidad  para reconocer y aplicar los principios de  promoción de la salud y prevención de enfermedades.",
+          "unidades": [
+            {
+              "numero_unidad": "Bloque temático I",
+              "nombre_unidad": "Generalidades de la Salud Pública",
+              "capitulos": [
+                "Capítulo 1: Introducción a la Salud Pública.",
+                "Capítulo 2: Historia de la Salud Pública en el Mundo.",
+                "Capítulo 3: Historia de la Salud Pública en Bolivia. Periodo Colonial y Republicano.",
+                "Capítulo 4: Funciones esenciales de la Salud Pública.",
+                "Capítulo 5: El Derecho a la Salud, Disponibilidad, Calidad, Accesibilidad y Aceptabilidad.",
+                "Capítulo 6: Definición de promoción de la Salud, conferencias mundiales de promoción de la salud, estrategias de la promoción de la salud.",
+                "Capítulo 7: Historia natural de la enfermedad - Niveles de prevención - Triada ecológica.",
+                "Capítulo 8: Código de ética, bioética, deontología médica y consentimiento informado."
+              ]
+            },
+            {
+              "numero_unidad": "Bloque temático II",
+              "nombre_unidad": "Determinantes, condicionantes y desencadenantes",
+              "capitulos": [
+                "Capítulo 9: Estructura en salud, niveles de atención en salud – referencia contrarreferencia.",
+                "Capítulo 10: Modelo Sanitario de Bolivia - Salud Familiar Comunitaria Intercultural (participación social, integralidad, intersectorialidad e interculturalidad), modelo de atención y modelo de gestión.",
+                "Capítulo 11: Determinantes Sociales de la Salud (servicios básicos, estructura de la vivienda, funcionalidad de la vivienda, salud alimentaria, características socioeconómicas), evaluación de las determinantes.",
+                "Capítulo 12: Riesgos Personales: Grupo I (aparentemente sano), Grupo II (factores de riesgo), Grupo III (morbilidad) y Grupo IV (Discapacidad) y Riesgos familiares.",
+                "Capítulo 13: Familiograma y evaluación familiar.",
+                "Capítulo 14: Carpeta familiar.",
+                "Capítulo 15: Sala Situacional en Salud – Componentes (atención, mapa parlante y componente de gestión).",
+                "Capítulo 16: Sistema único de información en salud SUIS – SOAP (Software de Atención Primaria en Salud) – Instrumentos de Captación, sistematización, consolidación y retroalimentación."
+              ]
+            },
+            {
+              "numero_unidad": "Bloque temático III",
+              "nombre_unidad": "Interculturalidad – Salud ambiental, medio ambiente, programas nacionales ENTs",
+              "capitulos": [
+                "Capítulo 17: Interculturalidad – Cosmovisión – Identidad – Paradigmas – Herbolaria.",
+                "Capítulo 18: Medio ambiente, cambio climático e impacto en la salud - Protocolo de Kyoto.",
+                "Capítulo 19: Contaminación ambiental, efectos en la salud – Estrategias de prevención.",
+                "Capítulo 20: Vías de Administración de la Vacunas, Esquema de Vacunación en Bolivia, cadena de frío.",
+                "Capítulo 21: Rabia – Agente causal, ciclo de transmisión, signos y síntomas de la rabia – medidas preventivas para la prevención de la rabia.",
+                "Capítulo 22: Tuberculosis – signos y síntomas - definición de sintomático respiratorio, prevención de la tuberculosis.",
+                "Capítulo 23: Infecciones de transmisión sexual, métodos anticonceptivos.",
+                "Capítulo 24: Enfermedades no transmisibles (Obesidad, Diabetes Mellitus, Hipertensión arterial e Insuficiencia renal crónica)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "METODOLOGIA DE INVESTIGACIÓN I",
+          "sigla": "MED-104",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "2 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La materia está relacionada con la ciencia, siendo esta un estilo de pensamiento y de acción, el más reciente, el más universal, el más riguroso y el más provechoso de todos los estilos. En la ciencia como ante toda creación humana tenemos que distinguir entre el trabajo Investigación y su producto final, el conocimiento.Por ello, la materia de Metodología de investigación es una estrategia orientada a la generación de conocimientos, a la validación de aquellos que ya forman parte del saber y a la creación y adecuación de las tecnologías. Donde el universitario adquirirá los primeros esfuerzos por “investigar” y conocer la actividad vital del organismo y de los animales donde la historia nos da a conocer que los conocimientos de los antiguos se basaban fundamentalmente en conjeturas, de aquí que las conclusiones sobre la estructura y funciones del organismo fueran inexactas o erróneas. Sin embargo, el poder de observación y tenacidad de trabajo de esos hombres hicieron posible que poco a poco fuera desarrollándose un cuerpo de conocimientos propio de lo que posteriormente serían las diferentes disciplinas que hoy conforman la medicina moderna. Por lo mencionado, la investigación está estrechamente ligada al avance de la ciencia, además, es un proceso mediante el cual el investigador obtiene y genera conocimientos acerca de la realidad, es por ello que la investigación es considerada como eje de la formación desde el pregrado.",
+          "unidades": [
+            {
+              "numero_unidad": "Primera Unidad",
+              "nombre_unidad": "Reglas gramaticales y técnicas de redacción científica",
+              "capitulos": [
+                "Capítulo 1: Ortografía y acentuación I",
+                "Capítulo 2: Ortografía y acentuación II",
+                "Capítulo 3: Sintaxis y comunicación",
+                "Capítulo 4: Marcadores textuales y conectores",
+                "Capítulo 5: Redacción en Investigación",
+                "Capítulo 6: La Monografía"
+              ]
+            },
+            {
+              "numero_unidad": "Segunda Unidad",
+              "nombre_unidad": "Normas de redacción - Búsqueda y Acceso a la Información – Teoría de la Ciencia",
+              "capitulos": [
+                "Capítulo 7: Normativa APA",
+                "Capítulo 8: Búsqueda y accesos a información científica",
+                "Capítulo 9: Ecuaciones y comandos de búsqueda",
+                "Capítulo 10: Búsqueda especializada",
+                "Capítulo 11: Monografía para la Jornada Integradora",
+                "Capítulo 12: Ciencia y el conocimiento científico",
+                "Capítulo 13: La filosofía de la Ciencia y la Epistemología",
+                "Capítulo 14: Método científico, hipótesis, ley y teoría en ciencia",
+                "Capítulo 15: La investigación cuantitativa",
+                "Capítulo 16: La investigación cualitativa",
+                "Capítulo 17: Historia de la Medicina I",
+                "Capítulo 18: Historia de la Medicina II",
+                "Capítulo 19: Paradigmas en Medicina y Evolución del concepto Salud-enfermedad teoría científica en Medicina",
+                "Capítulo 20: Investigación clínica y la investigación biomédica",
+                "Capítulo 21: Pseudociencia y Pseudoterapia",
+                "Capítulo 22: La Medicina social, medicina alternativa y complementaria"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "nombre": "INTEGRACION BASICO CLINICA I",
+          "sigla": "MED-105",
+          "carga_horaria": "320 hrs",
+          "teoria": "1 hrs semanales",
+          "practica": "7 hrs semanales",
+          "meses": "5 meses",
+          "prerequisitos": "",
+          "marco_refencial": "La Carrera de Medicina de la Universidad Pública de El Alto se trazó nuevos desafíos para un proceso permanente de aproximación a la educación basada en competencias; el cual sustenta adquirir conocimientos, habilidades, actitudes, para así tener valores propios a la hora de ejercer la profesión médica. Se hace especial énfasis en la capacidad de comunicación, juicio crítico y reflexivo, logrando en el estudiante la superación constante de sí mismo. Los docentes utilizarán estrategias que faciliten la integración de conocimiento y habilidades, centradas en el estudiante para promover la creatividad, la reflexión y el razonamiento y cuyos criterios y formas de evaluación se dirigen a las habilidades integradas de las materias básicas con las materias clínicas. Preparando al estudiante con un perfil profesional de egreso con competencias para la atención en salud en establecimientos de salud de primer nivel de atención, en base a la resolución de casos clínicos y ejercicios de simulación, combinados con la teoría respectiva. Adicionalmente actividades complementarias de tipo integradoras con las demás materias de la carrera y participación en eventos como las Jornadas Integradoras en articulación con la parte de investigación y salud pública.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Características Generales de la Integración Básico Clínica y la Formación Basada en Competencias",
+              "capitulos": [
+                "Capítulo 1: Bases y fundamentos de la asignatura Integración Básico Clínico I",
+                "Capítulo 2: Métodos de enseñanza-aprendizaje en la formación basada en competencias",
+                "Capítulo 3: Historia natural de la enfermedad",
+                "Capítulo 4: Bioseguridad en el establecimiento de salud - Técnica de lavado y desinfección de manos - Uso correcto de la mascarilla o barbijo, etc.",
+                "Capítulo 5: Nociones generales de seguridad del paciente",
+                "Capítulo 6: Perfil del estudiante de medicina en los establecimientos de salud",
+                "Capítulo 7: El trato digno en salud",
+                "Capítulo 8: Relación médico-paciente",
+                "Capítulo 9: Constantes vitales I",
+                "Capítulo 10: Constantes vitales II – Pulso arterial y frecuencia respiratoria",
+                "Capítulo 11: Constantes vitales III – Temperatura y presión arterial"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Nociones Básicas de la Atención en Salud",
+              "capitulos": [
+                "Capítulo 12: Medidas antropométricas",
+                "Capítulo 13: Historia clínica I - Generalidades",
+                "Capítulo 14: Historia clínica II",
+                "Capítulo 15: Taller integrador I – Lumbalgia",
+                "Capítulo 16: Talleres integradores II – Hipotiroidismo vs Hipertiroidismo"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Talleres Integradores",
+              "capitulos": [
+                "Capítulo 17: Taller integrador III – Infarto agudo de miocardio",
+                "Capítulo 18: Taller integrador IV – Hepatopatía alcohólica",
+                "Capítulo 19: Taller integrador V – Placenta previa"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Segundo Ciclo",
+      "materias": [
+        {
+          "id": 7,
+          "nombre": "FISIOLOGÍA MÉDICA",
+          "sigla": "MED-200",
+          "carga_horaria": "280 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "4 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Anatomía Humana - Neuroanatomía clínica - Embriología Clínica – Genética Médica",
+          "marco_refencial": "La Fisiología Medica es una materia funcional básica muy importante en todas las carreras relacionadas con la medicina debido a la fuerte implicancia de la misma en la comprensión de los fenómenos de la vida y la enfermedad y como base para una terapéutica racional. Por otro lado, la Fisiología abreva en la investigación básica y por lo tanto presenta un fuerte correlato científico dentro del arte de la medicina. La fisiología está muy relacionada con la anatomía e históricamente era considerada una parte de la medicina. El gran hincapié que la fisiología hizo en la investigación de los mecanismos biológicos con la ayuda de la física y la química, convirtió a la fisiología en una disciplina independiente en el siglo XIX; sin embargo, hoy se tiende a la fragmentación y a la unión con la gran variedad de ramas especializadas que existen en las ciencias de la vida. Se reconocen tres grandes divisiones: fisiología general, relacionada con todos los procesos básicos que son comunes a todas las formas vivas; la fisiología y la anatomía funcional de los seres humanos y de otros animales, incluyendo la patología y los estudios comparativos, y la fisiología vegetal, que incluye la fotosíntesis y otros procesos de la vida de las plantas.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Fisiología Celular y Neurofisiología",
+              "capitulos": [
+                "Introducción a la Fisiología",
+                "Fisiología Celular",
+                "Homeostasis",
+                "Interacciones Moleculares",
+                "Control Genético de las Funciones Celulares",
+                "Compartimentos Funcionales del Cuerpo",
+                "Membranas Celulares o Biológicas",
+                "Compartimento Celular",
+                "Tejidos del Cuerpo",
+                "Dinámicas de la Membrana Celular I",
+                "Dinámica de la Membrana Celular II",
+                "Dinámica de la Membrana Celular III"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD I.1",
+              "nombre_unidad": "Neurofisiología",
+              "capitulos": [
+                "Potencial de Membrana en Reposo",
+                "Comunicación, Interacción y Homeostasis",
+                "Elementos Fisiológicos de Señalización",
+                "Vías de Señalización",
+                "Organización General del Sistema Nervioso",
+                "Señales Eléctricas en las Neuronas",
+                "Potencial de Acción",
+                "Comunicación Intercelular en el Sistema Nervioso",
+                "Interacción de la Transferencia de Información Neuronal",
+                "Fisiología del Sistema Nervioso Central",
+                "Fisiología de la Médula Espinal y Encéfalo",
+                "Fisiología Sensorial del Encéfalo",
+                "Fisiología Sensorial",
+                "Sistema Sensorial Somático",
+                "Fisiología del Dolor",
+                "Neurofisiología del Gusto y Olfato",
+                "Neurofisiología de la Audición",
+                "Neurofisiología de la Visión",
+                "Fisiología del Sistema Nervioso Autónomo I",
+                "Fisiología del Sistema Nervioso Autónomo II"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD I.2",
+              "nombre_unidad": "Neurofisiología de la Contracción Muscular",
+              "capitulos": [
+                "Fisiología de la Contracción Muscular",
+                "Mecanismo Molecular de la Contracción",
+                "Mecánica del Movimiento Corporal",
+                "Fisiología de la Contracción del Músculo Esquelético",
+                "Vías Reflejas Neuronales",
+                "Control Integrado del Movimiento Corporal",
+                "Estados de Conciencia",
+                "Vigilia y Sueño",
+                "Aprendizaje y Memoria",
+                "Electroencefalograma"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Fisiología Cardiovascular y Respiratoria",
+              "capitulos": [
+                "Generalidades del Aparato Cardiovascular",
+                "Músculo Cardíaco y Corazón: Función Auricular, Ventricular y Valvular",
+                "Contracción Isotónica del Músculo Cardíaco",
+                "Potenciales de Acción Miocárdico",
+                "El Corazón como Bomba",
+                "Fases del Ciclo Cardíaco",
+                "Tonos y Ruidos Cardíacos",
+                "Electrocardiografía Cardíaca",
+                "Interpretación del Electrocardiograma",
+                "Gasto Cardíaco"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II.1",
+              "nombre_unidad": "Circulación",
+              "capitulos": [
+                "Introducción",
+                "Presión, Volumen, Flujo y Resistencia",
+                "Tensión Arterial",
+                "Toma de Presión Arterial",
+                "Control de la Presión Arterial y Factores Determinantes",
+                "Regulación por el Sistema Renina-Angiotensina",
+                "Distribución de la Sangre en los Tejidos",
+                "Intercambio Capilar",
+                "Fisiología del Sistema Linfático"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II.2",
+              "nombre_unidad": "Fisiología Respiratoria - Mecánica Respiratoria",
+              "capitulos": [
+                "Anatomía Funcional del Sistema Respiratorio",
+                "Ventilación Alveolar",
+                "Volúmenes y Capacidades Pulmonares",
+                "Mecánica Respiratoria",
+                "Intercambio y Transporte Gaseoso",
+                "Intercambio de Gases entre los Pulmones y los Tejidos",
+                "Difusión y Captación de los Gases",
+                "Transporte de Oxígeno",
+                "Transporte de Gases en Sangre",
+                "Transporte de CO2",
+                "Hipoxemia"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "PARASITOLOGÍA - MICOLOGÍA MÉDICA",
+          "sigla": "MED-201",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La Catedra de Parasitología, es una asignatura que se encuentra en el Segundo ciclo de la carrera de Medicina, el cual tiene la función de guiar al estudiante a conocer y comprender las enfermedades parasitarias. La Parasitología y Micología Médica es la rama de la Medicina que estudia aquellos seres que viven dentro o sobre el cuerpo del ser humano y los aspectos de importancia médica que existen en la relación hospedador-parásito. Comprende, además, el estudio de vectores y los factores ecológicos y epidemiológicos relacionados con la transmisión y prevención de las enfermedades parasitarias. Como en otras disciplinas, la Parasitología usa términos específicos de su campo, que iremos definiendo en el desarrollo de la materia, ya que su conocimiento es necesario en el ejercicio de la profesión médica. El hombre puede enfermar por diversas causas, ya sean exógenas (externas) o que provengan del mismo individuo. Las de origen externo pueden ser agentes físicos (calor, electricidad), químicos (sustancias tóxicas, cáusticas), nutricionales (carenciales), ecológicos (contaminación ambiental), psicosociales (stress) y biológicos (seres vivos capaces de producir daño). Estos últimos, en un sentido amplio constituyen los parásitos y el ser vivo donde se establecen son los hospedadores o mesoneros. Desde las agrupaciones moleculares más sencillas, por ejemplo los virus, hasta los organismos más complejos como los artrópodos y helmintos, pueden comportarse como parásitos. Esto ha hecho que se efectuara una obligada y necesaria separación disciplinaria denominada: Virología, Bacteriología, Micología y Parasitología. La Parasitología incluye el estudio de los Protozoos, Helmintos y Artrópodos. La Micología comprende el estudio de los hongos y las enfermedades por ellos producidas. La Parasitología y la Micología se relacionan con otras disciplinas como la Zoología, Botánica, Anatomía y Fisiología humana, Patología, Clínica, Cirugía, Farmacología, Epidemiología, Ecología, etc.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Generalidades",
+              "capitulos": [
+                "Generalidades I: Historia y conceptos básicos (nomenclatura y taxonomía)",
+                "Generalidades II: Epidemiología y parasitosis",
+                "Relación huésped-parásito",
+                "Diagnóstico parasitológico I: Diagnóstico directo",
+                "Diagnóstico parasitológico II: Diagnóstico indirecto e inmunología",
+                "Helmintología",
+                "Protozoarios",
+                "Farmacología parasitaria"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Enteroparasitosis",
+              "capitulos": [
+                "Enteroparasitosis",
+                "Teniasis",
+                "Himenolepiasis",
+                "Diphylobotriasis",
+                "Ascariasis",
+                "Uncinarias",
+                "Strongyloidiasis",
+                "Enterobiosis",
+                "Tricocefalosis",
+                "Amebiasis",
+                "Otros protozoarios intestinales",
+                "Giardiasis",
+                "Balantidiasis",
+                "Blastocistosis",
+                "Criptosporidiasis"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Hemotisulares",
+              "capitulos": [
+                "Parásitos hemotisulares",
+                "Cisticercosis",
+                "Hidatidosis",
+                "Fasciolosis",
+                "Esquistomiasis",
+                "Triquinosis",
+                "Larvas migrantes",
+                "Filariasis",
+                "Tricomoniasis",
+                "Toxoplasmosis",
+                "Tripanosomiasis",
+                "Malaria",
+                "Leishmaniasis"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD IV",
+              "nombre_unidad": "Entomología Médica – Micología Médica",
+              "capitulos": [
+                "Generalidades de Entomología Médica",
+                "Hemípteros",
+                "Dípteros",
+                "Agentes de Miasis",
+                "Sifonapteros",
+                "Anopluros",
+                "Ácaros",
+                "Control vectorial",
+                "Micología Médica",
+                "Micosis superficiales – Dermatofitos",
+                "Micosis subcutáneas",
+                "Micosis sistémicas",
+                "Micosis oportunistas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "nombre": "BIOQUÍMICA – BIOLOGÍA MOLECULAR",
+          "sigla": "MED-202",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La asignatura de Bioquímica es un curso teórico – práctico con enfoque en competencias básicas relacionadas con la materia. Tiene como objetivo contribuir en la formación del médico general  en competencias básicas para coordinar, dirigir, realizar y explicar en términos químicos la estructura y función de los seres vivos. La asignatura de “Bioquímica y Biología Molecular” se centra primero en describir tanto la función de los compuestos inorgánicos de nuestro organismo como la estructura y función de sus moléculas constituyentes (biomoléculas). En segundo lugar detalla el conjunto de reacciones que permiten cubrir las necesidades vitales de las células y del organismo (metabolismo), centradas en la obtención de energía y en la síntesis y degradación de sus biomoléculas. Por último, muestra como la información necesaria para la generación de un organismo vivo, se trasmite de generación en generación y cómo esta información contenida en nuestros genes se regula y fluye hasta la síntesis de moléculas con capacidades funcionales.",
+          "unidades": [
+            {
+              "numero_unidad": "Primera Unidad",
+              "nombre_unidad": "Estructura, Metabolismo de los Aminoácidos, Proteínas, Enzimas y Expresión Genética",
+              "capitulos": [
+                "Capítulo 1: Fundamentos químicos y moleculares para el estudio de la bioquímica (Bioquímica y medicina)",
+                "Capítulo 2: Aminoácidos y péptidos",
+                "Capítulo 3: Proteínas: Generalidades",
+                "Capítulo 4: Proteínas globulares",
+                "Capítulo 5: Proteínas fibrosas",
+                "Capítulo 6: Catabolismo del nitrógeno de aminoácidos",
+                "Capítulo 7: Catabolismo de los esqueletos de carbono de aminoácidos",
+                "Capítulo 8: Conversión de aminoácidos a productos especializados",
+                "Capítulo 9: Enzimas: mecanismo de acción",
+                "Capítulo 10: Enzimas: Regulación enzimática",
+                "Capítulo 11: Estructura y metabolismo de nucleótidos",
+                "Capítulo 12: Estructura y función de ácidos nucleicos",
+                "Capítulo 13: Organización, duplicación y reparación del DNA",
+                "Capítulo 14: Síntesis, procesamiento y modificación del RNA",
+                "Capítulo 15: Síntesis de proteínas y código genético",
+                "Capítulo 16: Regulación de la expresión génica",
+                "Capítulo 17: Tecnología del DNA recombinante en el campo de la medicina"
+              ]
+            },
+            {
+              "numero_unidad": "Segunda Unidad",
+              "nombre_unidad": "Metabolismo de Lípidos y sus Funciones",
+              "capitulos": [
+                "Capítulo 18: Lípidos de importancia fisiológica",
+                "Capítulo 19: Biosíntesis de ácidos grasos: lipogénesis",
+                "Capítulo 20: Oxidación de ácidos grasos (AG): lipólisis",
+                "Capítulo 21: Cetogénesis",
+                "Capítulo 22: Metabolismo de acilgliceroles y esfingolípidos",
+                "Capítulo 23: Metabolismo del colesterol y esteroides",
+                "Capítulo 24: Transporte y almacenamiento de lípidos (lipoproteínas plasmáticas)",
+                "Capítulo 25: Obesidad y síndrome metabólico"
+              ]
+            },
+            {
+              "numero_unidad": "Tercera Unidad",
+              "nombre_unidad": "Metabolismo de Carbohidratos, Endocrinología y sus Funciones",
+              "capitulos": [
+                "Capítulo 26: Vías metabólicas y bioenergética",
+                "Capítulo 27: Carbohidratos de importancia fisiológica",
+                "Capítulo 28: Glucólisis",
+                "Capítulo 29: Ciclo del ácido cítrico",
+                "Capítulo 30: Cadena respiratoria y fosforilación oxidativa (sistema de transporte de electrones)",
+                "Capítulo 31: Gluconeogénesis y el control de la glucosa en la sangre",
+                "Capítulo 32: Glucogénesis y glucogenólisis (metabolismo del glicógeno)",
+                "Capítulo 33: Vía del fosfato de pentosa y hexosa",
+                "Capítulo 34: Glucosaminoglucanos y glucoproteínas",
+                "Capítulo 35: Porfirinas y pigmentos biliares",
+                "Capítulo 36: Bioseñalización y transducción de señales",
+                "Capítulo 37: Los órganos para la liberación hormonal",
+                "Capítulo 38: Hormonas hipofisarias e hipotalámicas",
+                "Capítulo 39: Glándula tiroidea",
+                "Capítulo 40: Glándulas suprarrenales",
+                "Capítulo 41: Metabolismo del calcio y el fósforo (envejecimiento)",
+                "Capítulo 42: Diabetes mellitus y páncreas"
+              ]
+            },
+            {
+              "numero_unidad": "Cuarta Unidad",
+              "nombre_unidad": "Bioquímica de Regulación de Agua, Nutrición y Micronutrientes",
+              "capitulos": [
+                "Capítulo 43: Homeostasis del agua y electrolitos",
+                "Capítulo 44: Regulación de la concentración del agua y de iones de hidrógeno",
+                "Capítulo 45: Nutrición, digestión y absorción",
+                "Capítulo 46: Micronutrientes I: vitaminas",
+                "Capítulo 47: Micronutrientes II: minerales y oligoelementos"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "nombre": "BACTERIOLOGÍA - VIROLOGÍA MÉDICA",
+          "sigla": "MED-203",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "Se inauguró con inicio de gestión el 2003 con Dr. Wilfredo Díaz, Dr. Claudio Maldonado y Dr. Jhon Quisbert. El año 2006 se elaboró contenidos mínimos de asignatura elaboradas a la par de las otras asignaturas de carácter anual con docentes invitados. La asignatura de Microbiología tiene como objetivo contribuir en la formación del médico general en competencias básicas para el diagnóstico y tratamiento de las principales patologías infecto-contagiosas prevalentes en nuestro medio. Aún existe una alta prevalencia de las enfermedades transmisibles de tipo infeccioso como la tuberculosis y el VIH/SIDA, y otras entidades no menos importantes y hace más necesario su importancia, para integrar la clínica y los métodos de diagnóstico basado en el laboratorio. Es una asignatura que complementará competencias para aplicar los conceptos clínicos para completar su formación profesional. ",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Generalidades, Introducción a la Bacteriología y Virología",
+              "capitulos": [
+                "Clasificación e historia de la microbiología",
+                "Microbiota normal",
+                "Esterilización, desinfección y antisepsia",
+                "Diagnóstico de laboratorio de las enfermedades bacterianas",
+                "Diagnóstico de laboratorio de las enfermedades virales",
+                "Clasificación y estructura bacteriana",
+                "Clasificación, estructura y replicación viral",
+                "Patogenia de las enfermedades bacterianas y virales",
+                "Metabolismo y genética de las bacterias",
+                "Agentes antibacterianos",
+                "Resistencia antibacteriana",
+                "Agentes antivirales"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "Bacteriología y Virología por Sistemas",
+              "capitulos": [
+                "Bacterias y virus causantes de infecciones respiratorias",
+                "Otros agentes etiológicos virales",
+                "Virus de ARN",
+                "Virus de ADN",
+                "Otros virus que causan infecciones respiratorias",
+                "Virus de la parotiditis",
+                "Bacterias y virus causantes de infecciones superficiales y profundas",
+                "Bacterias y virus causantes de infecciones gastrointestinales",
+                "Virus que causan hepatitis",
+                "Bacterias y virus causantes de infecciones sistémicas",
+                "Bacterias causantes de infecciones de vías urinarias"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERA UNIDAD",
+              "nombre_unidad": "Bacteriología y Virología por Sistemas II",
+              "capitulos": [
+                "Bacterias y virus causantes de infecciones genitales o E.T.S.",
+                "Bacterias y virus causantes de infección del sistema nervioso central",
+                "Agentes bacterianos productores de neurotoxinas",
+                "Infecciones transmitidas por vectores y fiebres hemorrágicas",
+                "Virus oncogénicos"
+              ]
+            },
+            {
+              "numero_unidad": "CUARTA UNIDAD",
+              "nombre_unidad": "Bacteriología y Virología Médica - Prácticas",
+              "capitulos": [
+                "Bioseguridad",
+                "Esterilización y desinfección",
+                "Técnicas de toma de muestra",
+                "Diagnóstico laboratorial de las infecciones",
+                "Lectura interpretada del antibiograma",
+                "Diagnóstico bacteriano y viral",
+                "Fundamentos de hemocultivo, urocultivo y coprocultivo",
+                "Casos clínicos de infecciones respiratorias",
+                "Casos clínicos de infecciones superficiales y profundas",
+                "Casos clínicos de infecciones gastrointestinales",
+                "Casos clínicos de infecciones sistémicas",
+                "Casos clínicos de infecciones de vías urinarias",
+                "Casos clínicos de infecciones genitales o E.T.S.",
+                "Casos clínicos de infecciones del sistema nervioso central",
+                "Casos clínicos de agentes bacterianos productores de neurotoxinas",
+                "Casos clínicos de infecciones transmitidas por vectores y fiebres hemorrágicas",
+                "Interacción social",
+                "Trabajo de investigación",
+                "Jornadas académicas de microbiología"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "nombre": "SALUD PÚBLICA II",
+          "sigla": "MED-204",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "2 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Salud Pública e Interculturalidad",
+          "marco_refencial": "Salud pública II es la materia que permitirá abordar el proceso y metodología de la investigación, pues al ser la profesión médica una de las que mayor actualización requiere, debe estar permanentemente relacionada con la investigación, este espacio permitirá a los estudiantes dotarse de herramientas necesarias para poder identificar los problemas de la salud, la capacidad de cómo abordarlos, intervenirlos, y aplicarlos a través de un proyecto de investigación con la finalidad de transformar la realidad identificada y de esta manera aportar científicamente en la solución de los problemas de salud de la ciudad de El Alto y de nuestro país.Salud pública es considerada una asignatura transversal en el segundo ciclo, pues permite la interrelación con las otras asignaturas a través de la investigación con los distintos enfoques propios de cada una de ellas y al mismo tiempo conglomerar todos los conocimientos en uno solo, de tal manera el estudiante tendrá una visión más amplia de los problemas de salud y desarrollará el instinto natural de investigar. Es válido destacar que la investigación en el campo de la salud es uno de los aportes más importante en el ámbito científico, sin embargo, pocos profesionales lo realizan, debido a que existe ciertos paradigmas que solo los privilegiados desarrollan este campo sin embargo la investigación es un instinto natural del ser humano, por ello debemos rescatar el mismo e incentivar a los futuros profesionales a realizar investigaciones y aportar con publicaciones al conocimiento. En el ámbito de la demografía en el contexto de la Salud pública, en el que se debe establecer la descripción de las principales características poblacionales es de suma importancia tanto para la definición de necesidades como para las estrategias de intervención. Por su puesto se requiere esta información acerca de la población a fin de establecer las características de las enfermedades y su relación con los problemas de salud, e identificar sus determinantes, que es objeto de la epidemiologia en este nivel de la formación basada por competencias. Así como el poder identificar los grupos poblacionales más vulnerables en el que se debe intervenir o actuar.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Metodología de la Investigación",
+              "capitulos": [
+                "Introducción a la investigación – fundamentos teóricos de la investigación",
+                "Momentos del proceso de la investigación",
+                "Objeto de estudio y fundamentación teórica",
+                "Acceso a la información bibliográfica",
+                "Diseño metodológico: Cuantitativo y Cualitativo",
+                "Definición y medición de variables",
+                "Población y muestra",
+                "Métodos, técnicas e instrumentos de investigación",
+                "Procedimientos para la recolección de la información",
+                "Plan de tabulación y análisis",
+                "Procesamiento y análisis de la información cuantitativa",
+                "Ética, comunicación y publicación",
+                "Protocolo de investigación",
+                "Informe final, publicación y utilización de resultados"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Demografía",
+              "capitulos": [
+                "Aspectos generales y evolución de la teoría demográfica",
+                "Población y censo",
+                "Pirámide poblacional",
+                "Movilidad territorial",
+                "Indicadores demográficos"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "PSICOLOGÍA MÉDICA",
+          "sigla": "MED-205",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "2 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La psicología médica es un campo de la psicología aplicada que reúne conocimientos y provee conceptos explicativos y criterios clínicos en relación con los aspectos psicológicos de los problemas médicos y del trabajo del médico, es una disciplina de integración que se ocupa del estudio de los factores psicológicos que intervienen en las distintas manifestaciones de la práctica médica la aplicación de la psicología a la medicina. La enseñanza de la catedra es necesaria para la comprensión del funcionamiento del individuo  en su concepto complejo de salud y enfermedad que implica la esfera biopsicosocial, para entender la importancia del desarrollo de alguna enfermedad, patología o trastorno y su repercusión a nivel sociedad, familia, laboral y del desarrollo del individuo en su entorno, dándole una explicación a como este fenómeno mental en la enfermedad y  como esto repercute en la salud pública y economía de cada país en este caso de forma específica en Bolivia.  La materia de Psicología Medica es antesala de la materia Psiquiatría en Medicina II, sentando las bases para la psicopatología. Se relaciona con la Neurología y con el resto de las asignaturas de la carrera ya que no es posible separar los tres componentes Biopsicosociales de los seres humanos. Se evaluará en base a los productos de aprendizaje que desarrollen durante el curso, entre los que se encuentran, investigaciones documentales y revisiones bibliográficas elaboración de mapas conceptuales, exposiciones, bitácora y exámenes de opción múltiple y la asistencia.",
+          "unidades": [
+            {
+              "numero_unidad": "MODULO I",
+              "nombre_unidad": "Fundamentos de la Psicología Médica",
+              "capitulos": [
+                "Unidad 1: Introducción de la Psicología Médica",
+                "Unidad 2: Normalidad y Anormalidad",
+                "Unidad 3: Personalidad",
+                "Unidad 4: Personalidad y Mecanismos de Defensa",
+                "Unidad 5: Ciclo Vital I"
+              ]
+            },
+            {
+              "numero_unidad": "MODULO II",
+              "nombre_unidad": "Aspectos Clínicos y Relacionales en Psicología Médica",
+              "capitulos": [
+                "Unidad 6: Ciclo Vital II",
+                "Unidad 7: Familia y Salud Mental",
+                "Unidad 8: Sexualidad",
+                "Unidad 9: Relación Médico-Paciente",
+                "Unidad 10: Enfermedad, Muerte y Duelo"
+              ]
+            },
+            {
+              "numero_unidad": "MODULO III",
+              "nombre_unidad": "Psicosomática y Neurociencias",
+              "capitulos": [
+                "Unidad 11: Medicina Psicosomática I",
+                "Unidad 12: Medicina Psicosomática II - Dolor",
+                "Unidad 13: Problemas de Salud Mental",
+                "Unidad 14: Neurociencias"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "nombre": "METODOLOGÍA DE INVESTIGACIÓN II",
+          "sigla": "MED-206",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "1 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Metodología de Investigación I",
+          "marco_refencial": "La metodología de la investigación científica es una de las herramientas fundamentales para conocer el escenario real del objeto de estudio, partiendo de los resultados obtenidos podemos plasmar el diseño o rediseño de proyectos de investigación, el resultado y producto de las investigaciones son conocimientos, teorías, leyes y modelos de la realidad que abren una nueva comprensión del  mundo, nuevas políticas científicas, y amplía finalmente el horizonte del campo científico que estemos tratando. Nuestro campo, la medicina, es clasificada por la filosofía de la ciencia como una ciencia y tecnología con un estrecho vínculo social, y como ciencia tiene a la investigación clínica y biomédica como los campos más activos dentro de las ciencias de la Salud. La investigación clínica como la biomédica requieren un soporte matemático-estadístico que posee sin lugar a dudas la bioestadística. La asignatura de metodología de la investigación II pretende ser por un lado una introducción a los conceptos básicos de estadística descriptiva y bioestadística médica junto a las técnicas más comunes utilizadas con ayuda de herramientas informáticas y el cálculo manual. Por otro lado, también pretende introducir a los estudiantes en el manejo y uso de información científica bajo el enfoque del paradigma actual denominado “Medicina Basada en la Evidencia”, por lo que se brindarán criterios de análisis preliminares para la revisión de un artículo científico, además de las formas de búsqueda de información válida en revistas indexadas publicadas en internet. El enfoque de la asignatura es eminentemente práctico, bajo un modelo mixto que introduce a la educación basada en competencias. Se dividirá en 3 grandes unidades, las mismas pretenden: ",
+          "unidades": [
+            {
+              "numero_unidad": "Primera Unidad",
+              "nombre_unidad": "Sistematización Manual Estadística de Datos",
+              "capitulos": [
+                "Capítulo 1: Definiciones básicas estadística descriptiva, método estadístico",
+                "Capítulo 2: Identificación de variables del tema de estudio",
+                "Capítulo 3: Identificación de la población de estudio (muestreo)",
+                "Capítulo 4: Diseño de instrumentos de recolección de datos",
+                "Capítulo 5: Trabajo de campo para la recolección de datos",
+                "Capítulo 6: Procesamiento y análisis de datos",
+                "Capítulo 7: Elaboración de tablas, tablas de frecuencias y cuadros",
+                "Capítulo 8: Elaboración de gráficas",
+                "Capítulo 9: Medidas de tendencia central",
+                "Capítulo 10: Medidas de dispersión",
+                "Capítulo 11: Elaboración de informe final"
+              ]
+            },
+            {
+              "numero_unidad": "Segunda Unidad",
+              "nombre_unidad": "Sistematización Estadística Computarizada de Datos",
+              "capitulos": [
+                "Capítulo 12: Definiciones básicas de software para estadística descriptiva",
+                "Capítulo 13: Identificación de variables del tema de estudio",
+                "Capítulo 14: Identificación de la población de estudio (muestreo)",
+                "Capítulo 15: La monografía",
+                "Capítulo 16: Introducción a la prueba de hipótesis",
+                "Capítulo 17: Medicina computacional",
+                "Capítulo 18: Elaboración de tablas, tablas de frecuencias y cuadros",
+                "Capítulo 19: Elaboración de gráficas",
+                "Capítulo 20: Medidas de tendencia central",
+                "Capítulo 21: Medidas de dispersión",
+                "Capítulo 22: Manejo de bibliografía"
+              ]
+            },
+            {
+              "numero_unidad": "Tercera Unidad",
+              "nombre_unidad": "El Artículo Científico y Medicina Basada en la Evidencia",
+              "capitulos": [
+                "Capítulo 23: Introducción y fundamento de la medicina basada en la evidencia (MBE)",
+                "Capítulo 24: Estructura del artículo original y otros tipos de artículo",
+                "Capítulo 25: El estilo científico",
+                "Capítulo 26: Orientación y contenido de un artículo científico",
+                "Capítulo 27: Búsqueda de información en la literatura"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "nombre": "INTEGRACIÓN BÁSICA CLÍNICO II",
+          "sigla": "MED-207",
+          "carga_horaria": "320 hrs anuales",
+          "teoria": "1 hrs semanales",
+          "practica": "7 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Integración Básico Clínico I",
+          "marco_refencial": "La Integración Básico Clínica II es una nueva asignatura dentro del rediseño de la malla curricular de la Carrera de Medicina implementada a partir del año 2020, con el fin de formar profesionales con pensamiento crítico, clínico epidemiológico y a su vez se encarga de integrar todas las asignaturas médicas mediante el aprendizaje basado en problemas y otras herramientas en el proceso enseñanza aprendizaje. La Integración Básico Clínica II estará enfocada a la resolución de casos clínicos en un contexto de tiempo amplio y por grupos e individualmente, además de desarrollar, conocimiento, habilidades y destrezas de acuerdo a los casos clínicos planteados. Los contenidos están relacionados directamente al avance curricular de las asignaturas básicas (Fisiología, Bioquímica, Microbiología, Parasitología y Psicología médica) De esta forma la catedra de Integración Básico Clínica II coadyuva y colabora a la formación de profesionales médicos acorde al perfil profesional y las competencias de la Carrera de Medicina",
+          "unidades": [
+            {
+              "numero_unidad": "Caso clínico N°1",
+              "nombre_unidad": "Sistema Musculoesquelético",
+              "capitulos": [
+                "Artropatía de rodilla"
+              ]
+            },
+            {
+              "numero_unidad": "Caso clínico N°2",
+              "nombre_unidad": "Sistema Nervioso",
+              "capitulos": [
+                "Encefalitis asociada a COVID-19"
+              ]
+            },
+            {
+              "numero_unidad": "Caso clínico N°3",
+              "nombre_unidad": "Sistema Cardiovascular",
+              "capitulos": [
+                "Insuficiencia Cardíaca Congestiva"
+              ]
+            },
+            {
+              "numero_unidad": "Caso clínico N°4",
+              "nombre_unidad": "Sistema Pulmonar",
+              "capitulos": [
+                "Neumonía bacteriana"
+              ]
+            },
+            {
+              "numero_unidad": "Caso clínico N°5",
+              "nombre_unidad": "Sistema Endocrino",
+              "capitulos": [
+                "Debut diabético"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad adicional",
+              "nombre_unidad": "Primeros Auxilios",
+              "capitulos": [
+                "Principios básicos de atención primaria"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Tercer Ciclo",
+      "materias": [
+        {
+          "id": 15,
+          "nombre": "FISIOPATOLOGÍA",
+          "sigla": "MED-300",
+          "carga_horaria": "240 hrs anuales",
+          "teoria": "40 hrs",
+          "practica": "200 hrs",
+          "meses": "",
+          "prerequisitos": "Anatomía II, Bioquímica y Biología Molecular, Fisiología II, Microbiología y Parasitología",
+          "marco_refencial": "La asignatura de Fisiopatología forma parte importante y corresponde al tercer año del programa de formación profesional de Medicina. Esta asignatura es la base fundamental de la medicina porque permite la integración entre materias básicas y clínicas, mediante el análisis de la etiología, la patogenia, los cambios morfológicos, fisiológicos y moleculares para poder llevar a cabo la correlación clínico-patológica de las enfermedades más frecuentes en nuestro país, por medio del estudio de las diferentes enfermedades y el reconocimiento de técnicas diagnósticas complementarias. La catedra de Fisiopatología es un curso teórico–práctico, con enfoque en competencias según el Plan de Estudios de la Carrera. Se plantea el uso de estrategias de enseñanza- aprendizaje-evaluación como son la exposición audiovisual, análisis de casos clínicos, mapas conceptuales, análisis de historias clínicas, revisión bibliográfica, cuadros comparativos, etc.",
+          "unidades": [
+            {
+              "numero_unidad": "Unidad 1",
+              "nombre_unidad": "Generalidades",
+              "capitulos": [
+                "Generalidades de la fisiopatología",
+                "Fisiopatología del dolor",
+                "Fisiopatología de la fiebre",
+                "Fisiopatología de la inflamación",
+                "Fisiopatología del desequilibrio hidroelectrolítico",
+                "Fisiopatología del desequilibrio ácido-base",
+                "Fisiopatología del síndrome del shock"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 2",
+              "nombre_unidad": "Fisiopatología de los Trastornos Cardiovasculares y Respiratorios",
+              "capitulos": [
+                "Fisiopatología de la hipertensión arterial sistémica",
+                "Fisiopatología de los síndromes isquémicos del miocardio",
+                "Fisiopatología de las lesiones valvulares",
+                "Fisiopatología de las arritmias cardiacas",
+                "Fisiopatología de la insuficiencia cardiaca",
+                "Fisiopatología del edema agudo pulmonar",
+                "Fisiopatología de la embolia e infarto pulmonar",
+                "Fisiopatología del EPOC",
+                "Fisiopatología de la insuficiencia respiratoria",
+                "Fisiopatología del asma bronquial"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 3",
+              "nombre_unidad": "Fisiopatología de Trastornos Digestivos y Renales",
+              "capitulos": [
+                "Fisiopatología del síndrome ulceroso",
+                "Fisiopatología de la diarrea y estreñimiento",
+                "Fisiopatología de la pancreatitis aguda y crónica",
+                "Fisiopatología del síndrome ictérico",
+                "Fisiopatología de la cirrosis hepática",
+                "Fisiopatología del síndrome nefrítico",
+                "Fisiopatología del síndrome nefrótico",
+                "Fisiopatología de la insuficiencia renal aguda",
+                "Fisiopatología de la insuficiencia renal crónica"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 4",
+              "nombre_unidad": "Fisiopatología de Trastornos Endocrinos, Neurológicos y Hemáticos",
+              "capitulos": [
+                "Fisiopatología del hipertiroidismo e hipotiroidismo",
+                "Fisiopatología de la Diabetes Mellitus",
+                "Fisiopatología de las glándulas suprarrenales",
+                "Fisiopatología de la convulsión y epilepsia",
+                "Fisiopatología de la coagulación intravascular diseminada",
+                "Fisiopatología de las anemias y policitemia"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "nombre": "MEDICINA I",
+          "sigla": "MED-301",
+          "carga_horaria": "400 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "8 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Fisiología, Fisiopatología",
+          "marco_refencial": "Es indudable que la Medicina (Semiología, Radiología, Laboratorio y Patología Clínica) es una asignatura que propende a impulsar el conocimiento de los valores homeostáticos normales y al entendimiento de los procesos alterados que originan cambios metabólicos que son necesarios identificar y reconocer para un cabal cumplimiento de sus futuras funciones, lo cual conlleve al perfeccionamiento profesional constante. Es el docente quien como ente educativo contribuye en sus clases teóricas y prácticas a incentivar el desarrollo de la personalidad del estudiante de medicina, haciendo énfasis en aquellos aspectos de motivación, y reafirmación de su identidad profesional, estimulando a que el mismo tenga la oportunidad de brindar aportes al desarrollo de valores éticos, científicos y morales, es decir formarlo y perfeccionar su vocación de servicio, coadyuvando a fortalecer las cualidades de humanismo, responsabilidad, solidaridad y equidad. La catedra de Medicina I permite al estudiante tener una clara concepción sobre los signos y síntomas y diagnósticos complementarios del paciente permitiéndole así reconocer e interpretar los mismos de forma confiable con el equipo multidisciplinario en la búsqueda de soluciones que beneficien al usuario, familia y comunidad donde le corresponda desenvolverse como profesional de salud.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Semiología General",
+              "capitulos": [
+                "Introducción a la Semiología - Definición, objetivos, semiotecnia",
+                "La relación médico-paciente",
+                "Entrevista médico-paciente - Historia clínica del paciente internado y ambulatorio",
+                "Signos y síntomas generales - Dolor, fiebre, disnea, cianosis, edema, ictericia, astenia, pérdida y ganancia de peso",
+                "Semiología general - Examen físico, impresión general, anexos cutáneos, tejido celular subcutáneo, sistema venoso superficial, sistema linfático",
+                "Semiología de la cabeza y cuello - Cabeza y cuello"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Semiología de Aparatos y Sistemas",
+              "capitulos": [
+                "Semiología del aparato respiratorio - Motivo de consulta, anamnesis, examen físico, síndromes y patologías, diagnóstico",
+                "Semiología del aparato cardiovascular - Motivo de consulta, anamnesis, examen físico, síndromes y patologías, diagnóstico"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Semiología de Aparatos Digestivo, Nefrourológico y Reproductor",
+              "capitulos": [
+                "Semiología del aparato digestivo - Motivo de consulta, anamnesis, examen físico, síndromes y patologías, diagnóstico",
+                "Semiología nefrourológico - aparato reproductor masculino y femenino - Motivo de consulta, anamnesis, examen físico, síndromes y patologías, diagnóstico"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD IV",
+              "nombre_unidad": "Semiología de Sistemas Nervioso, Endocrino y Hematológico",
+              "capitulos": [
+                "Semiología del sistema nervioso - Motivo de consulta, anamnesis, examen físico, síndromes y patologías, diagnóstico",
+                "Semiología del aparato osteoarticulomuscular - Extremidades",
+                "Semiología sistema endocrino y metabólico",
+                "Semiología inmunohematopoyético y hemostasia"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Radiología Básica y Cráneo",
+              "capitulos": [
+                "Radiología básica - Generalidades",
+                "Estudio radiológico simple de cráneo"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Radiología Cardiotorácico",
+              "capitulos": [
+                "Radiología del aparato respiratorio I",
+                "Radiología del aparato respiratorio II",
+                "Radiología del corazón"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Radiología Digestivo y Urinario",
+              "capitulos": [
+                "Radiología del aparato digestivo - Abdomen simple",
+                "Radiología del aparato digestivo - Esófago, estómago, duodeno",
+                "Radiología del aparato digestivo - Intestino delgado y grueso",
+                "Radiología de la vesícula y vías biliares",
+                "Radiología de los riñones y vías urinarias"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD IV",
+              "nombre_unidad": "Radiología Aparato Locomotor",
+              "capitulos": [
+                "Radiología del aparato locomotor",
+                "Radiología de la pelvis",
+                "Radiología de la columna vertebral"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Laboratorio y Patología Clínica",
+              "capitulos": [
+                "El laboratorio y la patología clínica",
+                "Biometría Hemática de la serie eritrocítica y su relación con el examen clínico",
+                "Biometría Hemática de la serie blanca y patología clínica",
+                "Pruebas de coagulación y hemostasia",
+                "Grupo sanguíneo y sus alteraciones",
+                "Estudios del metabolismo de las proteínas",
+                "Ionograma y sus alteraciones séricas",
+                "Estudios de química sanguínea",
+                "Estudios de la función hepática",
+                "Estudios de la función pancreática",
+                "Examen general de orina y su repercusión clínica",
+                "Estudios de función renal",
+                "Estudios de citoquímica del líquido pleural, ascítico y líquido cefalorraquídeo",
+                "Estudios de función endocrino-metabólica",
+                "Pruebas reactantes de fase aguda",
+                "Estudios de perfil inmunológico"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "nombre": "FARMACOLOGÍA CLÍNICA",
+          "sigla": "MED-302",
+          "carga_horaria": "240 hrs anuales",
+          "teoria": "80 hrs",
+          "practica": "160 hrs",
+          "meses": "",
+          "prerequisitos": "Bioquímica y Biología molecular, Medicina I",
+          "marco_refencial": "Dentro de la formación del Médico Cirujano está claro que se debe poseer los conocimientos fundamentales que le permitan llevar a cabo una Terapéutica Farmacológica Científica y Racional sobre las enfermedades prevalentes, de mayor incidencia que son las generan la demanda de mayor atención médica en su mayor proporción. La Enseñanza de la Farmacología es general, una compleja  tarea por lo que es indispensable de objetivos claros y definidos. La orientación de la docencia farmacológica para el estudiante de la Carrera de Medicina  debe ser diferente sin duda a los objetivos y orientación que debe tener una asignatura. En la carrera de medicina la enseñanza en la  farmacología  para los futuros médicos en tiene como objetivo básico la adquisición de los conocimientos que le permitan la aplicación de una terapéutica farmacológica útil para el diagnóstico, la prevención, o el tratamiento de la enfermedades que afecta al  ser humano en un contexto definido actualmente como uso racional delos medicamentos.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD 1",
+              "nombre_unidad": "Generalidades de la Farmacología",
+              "capitulos": [
+                "Generalidades de la farmacología",
+                "Farmacocinética: absorción, distribución, metabolismo y eliminación de los fármacos",
+                "Farmacodinamia: mecanismos moleculares de la acción de los fármacos",
+                "Toxicidad de los fármacos y envenenamiento",
+                "Reacciones adversas a los medicamentos",
+                "Farmacovigilancia y farmacoepidemiología",
+                "Farmacogenética y farmaco economía; evaluación de resultados en salud de los medicamentos",
+                "Principios de redacción de la receta médica y conformidad del paciente; diseño y optimización de regímenes posológicos"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD 2",
+              "nombre_unidad": "Farmacología Especial",
+              "capitulos": [
+                "Simpaticomiméticos y/o agonistas colinérgicos",
+                "Simpaticomiméticos y/o agonistas adrenérgicos",
+                "Parasimpaticolíticos y/o antagonistas colinérgicos",
+                "Simpaticolíticos y/o antagonistas adrenérgicos"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD 3",
+              "nombre_unidad": "Farmacología de los Antimicrobianos",
+              "capitulos": [
+                "Generalidades de los antibióticos y quimioterapéuticos",
+                "Antibióticos: Penicilinas, Cefalosporinas y otros antibióticos beta-lactámicos",
+                "Antibióticos aminoglucósidos",
+                "Antibióticos macrólidos",
+                "Sulfamidas, Trimetoprim-Sulfametoxazol y quinolonas",
+                "Fármacos antituberculosos",
+                "Fármacos antiparasitarios",
+                "Fármacos antirretrovirales y tratamiento para el VIH",
+                "Fármacos antimicóticos",
+                "Fármacos antivirales"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD 4",
+              "nombre_unidad": "Farmacología del Sistema Respiratorio",
+              "capitulos": [
+                "Fármacos broncodilatadores y antiinflamatorios en el asma y enfermedad pulmonar obstructiva crónica",
+                "Fármacos antitusivos, expectorantes y mucolíticos"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD 5",
+              "nombre_unidad": "Farmacología del Sistema Nervioso Central",
+              "capitulos": [
+                "Fármacos anticonvulsivantes y antiepilépticos",
+                "Tratamiento farmacológico de los trastornos de la depresión y ansiedad",
+                "Farmacoterapia de la psicosis y manía",
+                "Fármacos hipnóticos y sedantes",
+                "Fármacos en la enfermedad de Parkinson y otros trastornos del movimiento",
+                "Farmacología del vértigo",
+                "Anestésicos locales"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD 6",
+              "nombre_unidad": "Farmacoterapia de las Enfermedades Neoplásicas",
+              "capitulos": [
+                "Principios generales de la farmacología en el cáncer",
+                "Fármacos citotóxicos",
+                "Terapias dirigidas con anticuerpos monoclonales e inhibidores de la proteína cinasa"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "nombre": "ANATOMÍA PATOLÓGICA",
+          "sigla": "MED-303",
+          "carga_horaria": "240 hrs anuales",
+          "teoria": "46 hrs",
+          "practica": "194 hrs",
+          "meses": "",
+          "prerequisitos": "Medicina I, Medicina II",
+          "marco_refencial": "La Anatomía Patológica es la rama de la Medicina que se ocupa del estudio de las causas, desarrollo y consecuencias de las enfermedades. El fin último es el diagnóstico correcto de biopsias, piezas quirúrgicas, citologías y autopsias. La asignatura de Anatomía Patológica corresponde al tercer año del programa de formación del profesional médico. Esta asignatura es la base fundamental de la ciencia médica ya que permite la integración e interrelación entre materias básicas, fisiológicas y clínicas. Prioriza la concepción de la enfermedad desde un punto de vista etiológico, patogénico, morfológico y fisiopatológico describiendo las alteraciones anatómicas macroscópicas, microscópicas, moleculares y genéticos que concluyen en un diagnóstico histopatológico, importante para la concepción de la enfermedad y su manejo adecuado fundamentado en las materias clínicas. Así mismo la Anatomía Patológica promueve un alto índice de investigación traducido en mejoras de la concepción de una determinada patología utilizando técnicas diagnósticas complementarias. La asignatura se desarrolla dentro de un marco teórico–práctico, con enfoque en competencias según el Plan de Estudios de la Carrera. Aplicando el uso de estrategias adecuadas de enseñanza- aprendizaje-evaluación como: exposición audiovisual, análisis de casos clínicos, mapas conceptuales, revisión bibliográfica y cuadros comparativos.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Patología General",
+              "capitulos": [
+                "Capítulo I: Introducción a la Anatomía Patológica y Métodos de la Anatomía Patológica",
+                "Capítulo II: Lesión y Muerte Celular",
+                "Capítulo III: Inflamación-Reparación",
+                "Capítulo IV: Trastornos Inmunitarios",
+                "Capítulo V: Trastornos Metabólicos",
+                "Capítulo VI: Trastornos Circulatorios",
+                "Capítulo VII: Trastornos Genéticos",
+                "Capítulo VIII: Neoplasias",
+                "Capítulo IX: Enfermedades Ambientales y Nutricionales"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Patología Especial",
+              "capitulos": [
+                "Capítulo X: Patología Vascular y de los Vasos Sanguíneos",
+                "Capítulo XI: Patología Cardíaca",
+                "Capítulo XII: Patología Pulmonar",
+                "Capítulo XIII: Patología del Sistema Hematopoyético y Órganos Linfáticos",
+                "Capítulo XIV: Patología Hemática",
+                "Capítulo XV: Patología de Cabeza y Cuello",
+                "Capítulo XVI: Patología del Aparato Digestivo",
+                "Capítulo XVII: Patología de Hígado y Vías Biliares, Páncreas Exocrino",
+                "Capítulo XVIII: Patología Renal",
+                "Capítulo XIX: Patología del Tracto Urinario Inferior",
+                "Capítulo XX: Patología del Aparato Genital Masculino",
+                "Capítulo XXI: Patología del Aparato Genital Femenino, Glándula Mamaria y Gestacional",
+                "Capítulo XXII: Patología Endocrina",
+                "Capítulo XXIII: Patología de la Piel",
+                "Capítulo XXIV: Patología del Aparato Locomotor (Ósea, Articular, Muscular, Partes Blandas)",
+                "Capítulo XXV: Patología del Sistema Nervioso (SNC y Periférico)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "nombre": "CIRUGÍA I",
+          "sigla": "MED-304",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "5 hrs semanales",
+          "practica": "20 hrs semanales",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Generalidades de la Técnica Quirúrgica",
+              "capitulos": [
+                "Capítulo 1: Generalidades",
+                "Capítulo 2: La Historia Clínica en Cirugía",
+                "Capítulo 3: Aspectos Legales en Cirugía",
+                "Capítulo 4: Vendas y Vendajes",
+                "Capítulo 5: Anatomía y Semiología Quirúrgica de Tórax y Mamas",
+                "Capítulo 6: Anatomía y Semiología Quirúrgica del Abdomen y Pelvis"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Ambiente Quirúrgico y Procedimientos",
+              "capitulos": [
+                "Capítulo 7: Ambiente Quirúrgico",
+                "Capítulo 8: Antisepsia, Asepsia, Esterilización y Desinfección",
+                "Capítulo 9: Instrumental Quirúrgico",
+                "Capítulo 10: Bioseguridad",
+                "Capítulo 11: Sondas y Sondajes",
+                "Capítulo 12: Preoperatorio",
+                "Capítulo 13: Nociones Básicas de Anestesiología",
+                "Capítulo 14: Acto Quirúrgico",
+                "Capítulo 15: Diéresis y Disección de Tejidos Blandos",
+                "Capítulo 16: Hemostasia",
+                "Capítulo 17: Drenajes o Avenamientos",
+                "Capítulo 18: Síntesis de Tejidos Blandos"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Procedimientos Especiales",
+              "capitulos": [
+                "Capítulo 19: Cirugía Laparoscópica",
+                "Capítulo 20: Postoperatorio",
+                "Capítulo 21: Tratamiento de las Heridas",
+                "Capítulo 22: Urgencia y Maniobras Quirúrgicas",
+                "Capítulo 23: Cirugías de Urgencia",
+                "Capítulo 24: Vías Parenterales de Administración de Fármacos",
+                "Capítulo 25: Maniobras de Reanimación Cardiopulmonar",
+                "Capítulo 26: Ética en Cirugía"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "nombre": "INGLÉS",
+          "sigla": "MED-305",
+          "carga_horaria": "80 hrs anuales",
+          "teoria": "1 hrs semanales",
+          "practica": "1 hrs semanales",
+          "meses": "10 meses",
+          "prerequisitos": "Ninguno",
+          "marco_refencial": "El panorama mundial en el que nos encontramos actualmente exige que, como profesionales en Medicina, debemos tener una amplia perspectiva con visiones que abarquen mucho más que un simple vistazo local nacional, sino que ampliemos esa visión  mucho  más  allá  de  nuestras fronteras  comunicacionales,  esta  visión  debe trascender culturas, costumbres y lenguas de manera que encontremos las menos barreras posibles en un interactuar y/o analogar cada punto trascendente que se vaya desarrollando en cualquier espacio del planeta, en pro de un acercamiento a la excelencia en cuanto a nuestra área de estudio y trabajo se refiere. El conocimiento de una Lengua implica el desarrollo de diversas habilidades y capacidades dentro de las cuales hemos de destacar la habilidad de entender de fuentes escritas el mensaje correspondiente de manera clara, objetiva y directa lo cual frecuentemente se denomina como el proceso de ingreso de información (INPUT) y también implica el haber desarrollado las habilidades de producir textos de manera escrita en dicha lengua emitiendo mensajes claros, específicos y directos, proceso que se denomina rendimiento o producción.(OUTPUT). La utilización de una lengua extranjera como instrumento de trabajo o herramienta es de primordial importancia en cualquier tipo de profesión, siendo que se constituye en el puente de acceso no solo al conocimiento sino también a la accesibilidad a tecnologías logradas por otras culturas de manera directa. El Inglés es, sin lugar a dudas, la lengua de comunicación más utilizada a nivel mundial y es por eso que su aprendizaje forma parte de la formación integral en cualquier área.",
+          "unidades": [
+            {
+              "numero_unidad": "Primera Unidad",
+              "nombre_unidad": "Medical Terminology",
+              "capitulos": [
+                "Capítulo 1: Subject Pronouns",
+                "Capítulo 2: Nouns Vs. pronouns",
+                "Capítulo 3: Different types of nouns",
+                "Capítulo 4: Thematic vocabulary (occupations, specialties, specialists)",
+                "Capítulo 5: Plural nouns: Regular forms",
+                "Capítulo 6: Plural nouns: Irregular forms",
+                "Capítulo 7: Possessive nouns: ‘s",
+                "Capítulo 8: Possessive nouns: s’",
+                "Capítulo 9: Nouns as a subject in a sentence",
+                "Capítulo 10: To be (am, is, are)"
+              ]
+            },
+            {
+              "numero_unidad": "Segunda Unidad",
+              "nombre_unidad": "Human Anatomy (Simple Present Tense)",
+              "capitulos": [
+                "Capítulo 11: Common verbs",
+                "Capítulo 12: Conjugation of the verbs",
+                "Capítulo 13: Affirmative statements",
+                "Capítulo 14: Reading short thematic paragraphs",
+                "Capítulo 15: Possessive adjectives",
+                "Capítulo 16: Count nouns / non-count nouns",
+                "Capítulo 17: There is/there are",
+                "Capítulo 18: Infinitives with like, want, need",
+                "Capítulo 19: Some / any",
+                "Capítulo 20: Prepositions",
+                "Capítulo 21: Interrogative statements",
+                "Capítulo 22: Auxiliaries",
+                "Capítulo 23: Short questions / answers",
+                "Capítulo 24: Question words",
+                "Capítulo 25: Information questions / answers",
+                "Capítulo 26: Descriptive adjectives",
+                "Capítulo 27: Demonstrative pronouns",
+                "Capítulo 28: Auxiliary verb “can/can’t”",
+                "Capítulo 29: Conjunctions: “and, but, or”",
+                "Capítulo 30: Let’s"
+              ]
+            },
+            {
+              "numero_unidad": "Tercera Unidad",
+              "nombre_unidad": "Medical Psychology (Present Progressive Tense)",
+              "capitulos": [
+                "Capítulo 31: Describing pictures, sick people’s symptoms, illnesses, treatments",
+                "Capítulo 32: Explaining some cure processes",
+                "Capítulo 33: Giving some indications for treatments or healings",
+                "Capítulo 34: Non-action verbs",
+                "Capítulo 35: Time adverbs in present continuous",
+                "Capítulo 36: Negative and interrogative sentences",
+                "Capítulo 37: Information questions with “who”",
+                "Capítulo 38: Getting more information: How healthy are you?",
+                "Capítulo 39: Reading comprehension: Simple Present Tense Vs. Present Progressive Tense",
+                "Capítulo 40: Imperatives"
+              ]
+            },
+            {
+              "numero_unidad": "Cuarta Unidad",
+              "nombre_unidad": "Virology (Simple Past Tense)",
+              "capitulos": [
+                "Capítulo 41: Regular and Irregular verbs",
+                "Capítulo 42: Time adverbs in past tense",
+                "Capítulo 43: Object pronouns",
+                "Capítulo 44: Describing sicknesses in the past",
+                "Capítulo 45: Present Perfect Tense",
+                "Capítulo 46: Up to now, already, yet"
+              ]
+            },
+            {
+              "numero_unidad": "Quinta Unidad",
+              "nombre_unidad": "Clinical Pharmacology (Simple Future Tense)",
+              "capitulos": [
+                "Capítulo 47: Be going to / will",
+                "Capítulo 48: Time expressions (tomorrow, next…)",
+                "Capítulo 49: Indefinite pronouns"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Cuarto Ciclo",
+      "materias": [
+        {
+          "id": 21,
+          "nombre": "MEDICINA II",
+          "sigla": "MED-400",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "2 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Medicina I",
+          "marco_refencial": "",
+          "unidades": [
+            {
+              "numero_unidad": "Unidad 1",
+              "nombre_unidad": "Cardiología",
+              "capitulos": [
+                "Motivos de consulta",
+                "Antecedentes cardiovasculares",
+                "Examen físico",
+                "Introducción al electrocardiograma",
+                "EKG: Eje cardiaco – ritmo sinusal",
+                "EKG: Crecimientos auriculares y ventriculares",
+                "EKG: Bloqueo auriculoventricular",
+                "EKG: Bloqueo intraventricular",
+                "Hipertensión pulmonar",
+                "Enfermedad pericárdica",
+                "Hipertensión arterial sistémica",
+                "Cardiopatía isquémica",
+                "Insuficiencia cardiaca"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 2",
+              "nombre_unidad": "Dermatología",
+              "capitulos": [
+                "Consideración general y entrevista con el paciente dermatológico",
+                "Historia clínica dermatológica",
+                "Caracterización de las lesiones elementales de la piel",
+                "Enfoque del diagnóstico dermatológico",
+                "Trastornos de las glándulas sebáceas",
+                "Trastornos dermatológicos debidos a las radiaciones ultravioleta",
+                "Tumores cutáneos benignos y malignos",
+                "Dermatosis reaccionales (urticaria, dermatitis de contacto)",
+                "Dermatosis parasitarias",
+                "Dermatosis micóticas",
+                "Dermatosis bacterianas",
+                "Dermatosis virales",
+                "Dermatosis por micobacterias",
+                "Dermatosis ampollares",
+                "Discromías",
+                "Vasculitis",
+                "Patología del pelo",
+                "Patología de las uñas",
+                "Dermatosis medicamentosas",
+                "Urgencias dermatológicas"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 3",
+              "nombre_unidad": "Infectología",
+              "capitulos": [
+                "Síndrome infeccioso agudo",
+                "Síndrome febril",
+                "Métodos microbiológicos de diagnóstico",
+                "Técnicas de imagen en infectología",
+                "Técnicas rápidas de diagnóstico",
+                "Historia clínica infectológica",
+                "Aspectos farmacológicos y uso de antibióticos",
+                "Síndrome infeccioso en urgencias",
+                "Infecciones oculares básicas",
+                "Infecciones prevalentes respiratorias",
+                "Infecciones urinarias",
+                "Infecciones de piel y tejido celular subcutáneo",
+                "Infecciones osteoarticulares",
+                "Absceso vertebral",
+                "Infecciones endovasculares",
+                "Infecciones del SNC",
+                "Infecciones por micobacterias",
+                "Infecciones por anaerobios",
+                "Infecciones intestinales",
+                "Infecciones de transmisión sexual",
+                "Hepatitis viral",
+                "VIH/SIDA",
+                "Infección por Citomegalovirus",
+                "Infección por virus de influenza",
+                "Infecciones víricas emergentes",
+                "Infecciones intrahospitalarias",
+                "Infecciones por bacterias multiresistentes",
+                "Micosis sistémica",
+                "Infecciones de los migrantes",
+                "Microbioma infectológico"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 4",
+              "nombre_unidad": "Inmunología",
+              "capitulos": [
+                "Generalidades y definiciones",
+                "Anticuerpos",
+                "Antígenos",
+                "Sistema de complemento",
+                "Inflamación",
+                "Inmunidad celular",
+                "Inmunidad humoral",
+                "Deficiencia inmunológica (desnutrición, SIDA, diabetes mellitus)",
+                "Hipersensibilidad (asma bronquial, urticaria, enfermedades alérgicas del árbol respiratorio)",
+                "Autoinmunidad (artritis reumatoidea, lupus eritematoso sistémico, esclerosis sistémica progresiva, miastenia gravis)",
+                "Inmunidad y cáncer (generalidades, leucemia, linfomas, mieloma múltiple)"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 5",
+              "nombre_unidad": "Medicina Tropical",
+              "capitulos": [
+                "Dengue",
+                "Malaria",
+                "Chikungunya",
+                "Zika",
+                "Fiebre amarilla",
+                "Fiebre hemorrágica",
+                "Ébola y Virus Marburg",
+                "Hantavirus",
+                "Leishmaniasis",
+                "Enfermedad de Chagas",
+                "Amebiasis",
+                "Ascariasis",
+                "Teniasis",
+                "Hidatidosis",
+                "Toxoplasmosis",
+                "Larva migrans cutánea",
+                "Lepra y peste",
+                "Síndrome respiratorio agudo severo",
+                "Influenza",
+                "Tuberculosis pulmonar",
+                "Tuberculosis extrapulmonar",
+                "Síndrome de inmunodeficiencia adquirida",
+                "Coinfección VIH-TB"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 6",
+              "nombre_unidad": "Neumología",
+              "capitulos": [
+                "Historia clínica en las enfermedades respiratorias",
+                "Síndromes pleuropulmonares",
+                "Exámenes complementarios en neumología",
+                "Enfermedades agudas de la vía aérea superior",
+                "Enfermedades crónicas de la vía aérea superior",
+                "Neumonía adquirida en la comunidad",
+                "Neumonía intrahospitalaria",
+                "Bronquiectasias",
+                "Absceso pulmonar",
+                "Hidatidosis pulmonar",
+                "Tuberculosis pulmonar",
+                "Tuberculosis MDR – XDR – RAFAS",
+                "Viriasis pulmonares",
+                "Micosis pulmonares",
+                "Neumopatías infecciosas pulmonares en inmunodeprimidos",
+                "Enfermedades de la pleura: Derrame pleural, empiema, neumotórax",
+                "Patología neumológica obstructiva (asma, EPOC)",
+                "Enfermedad tromboembólica venosa (TEP)",
+                "Hipertensión pulmonar (HAP)",
+                "Carcinoma broncogénico",
+                "Enfermedades del intersticio pulmonar",
+                "Insuficiencia respiratoria",
+                "Emergencias respiratorias"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 7",
+              "nombre_unidad": "Reumatología",
+              "capitulos": [
+                "Generalidades e introducción",
+                "Historia clínica y exámenes complementarios",
+                "Inmunología básica",
+                "Sistema inflamatorio",
+                "Tejido conectivo",
+                "Biomecánica de las articulaciones",
+                "Artritis reumatoide",
+                "Artritis idiopática juvenil",
+                "Lupus eritematoso sistémico",
+                "Síndrome antifosfolípido",
+                "Esclerosis sistémica progresiva",
+                "Miopatías inflamatorias",
+                "Vasculitis primaria y secundaria",
+                "Osteoporosis",
+                "Artritis microcristalinas",
+                "Osteoartritis primaria y secundaria",
+                "Fiebre reumática",
+                "Síndrome de Sjögren",
+                "Espondiloartropatías",
+                "Enfermedad mixta de tejido conectivo",
+                "Artritis séptica o bacteriana",
+                "Artritis específica o tuberculosa",
+                "Artritis reactiva",
+                "Patología de partes blandas - tendinopatías",
+                "Lumbalgias y escoliosis",
+                "Artritis y enfermedades hematológicas",
+                "Artritis y enfermedades endocrinológicas",
+                "Tumores óseos benignos y malignos"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "nombre": "CIRUGIA II",
+          "sigla": "MED-401",
+          "carga_horaria": "",
+          "teoria": "",
+          "practica": "",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "",
+          "unidades": [
+            {
+              "numero_unidad": "Unidad 1",
+              "nombre_unidad": "Cirugía Cara y Cuello",
+              "capitulos": [
+                "Generalidades",
+                "Embriología de Cabeza y Cuello",
+                "Anatomía quirúrgica de Cabeza y Cuello",
+                "Malformaciones congénitas de Cráneo",
+                "Malformaciones congénitas de Cara",
+                "Malformaciones congénitas de Cuello",
+                "Infecciones de Cabeza y Cuello",
+                "Traumatismo Máxilofacial"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 2",
+              "nombre_unidad": "Patología de Maxilares y Glándulas Salivales",
+              "capitulos": [
+                "Tumores benignos y malignos de los maxilares",
+                "Patología benigna de Glándulas Salivales",
+                "Patología maligna de Glándulas Salivales",
+                "Cáncer oral",
+                "Procedimientos plásticos mínimos de reconstrucción en Cabeza y Cuello"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 3",
+              "nombre_unidad": "Patología Glándulas Endocrinas",
+              "capitulos": [
+                "Patología de Tiroides",
+                "Cáncer de tiroides",
+                "Patología de glándulas paratiroides",
+                "Patología de ganglios linfáticos del cuello"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 4",
+              "nombre_unidad": "Cirugía Cardiovascular y Tórax",
+              "capitulos": [
+                "Cirugía cardiaca de adultos",
+                "Cirugía cardiaca pediátrica",
+                "Patología venosa",
+                "Patología arterial",
+                "Patología linfática",
+                "Patología traumática torácica",
+                "Patología infecciosa torácica",
+                "Cirugía de esófago, tráquea y mediastino",
+                "Patología neoplásica torácica",
+                "Patología congénita torácica",
+                "Procedimientos quirúrgicos torácicos"
+              ]
+            },
+            {
+              "numero_unidad": "Unidad 5",
+              "nombre_unidad": "Patología Quirúrgica",
+              "capitulos": [
+                "Abdomen agudo quirúrgico",
+                "Cirugía en tiempos de COVID-19, inflamación",
+                "Líquidos y electrolitos en cirugía",
+                "Shock",
+                "Heridas y cicatrización",
+                "Quemaduras",
+                "Hemostasia en cirugía",
+                "Patología de esófago I (Divertículos esofágicos, esofagitis cáustica)",
+                "Patología de esófago II (ERGE)",
+                "Patología gástrica I (SUP)",
+                "Patología gástrica II (Cáncer gástrico)",
+                "Patología hepática",
+                "Patología biliar I (Colecistitis, coledocolitiasis)",
+                "Patología biliar II (Cáncer de vesícula)",
+                "Patología pancreática",
+                "Patología de intestino delgado",
+                "Patología de intestino grueso",
+                "Patología anal",
+                "Patología apendicular",
+                "Patología de bazo y trauma abdominal cerrado",
+                "Patología abdominal I (Hernias de pared)",
+                "Patología abdominal II (Eventración, evisceración)",
+                "Ética en cirugía",
+                "Principios de la oncología",
+                "Profilaxis y antibióticos en cirugía",
+                "Trauma abdominal cerrado y abierto",
+                "Cirugía endoscópica",
+                "Infarto mesentérico"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "nombre": "NEUROLOGÍA – NEUROCIRUGÍA",
+          "sigla": "MED-402",
+          "carga_horaria": "320 hrs anuales",
+          "teoria": "8 hrs semanales",
+          "practica": "32 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Medicina I, Farmacologia clínica",
+          "marco_refencial": "La materia de Neurología y Neurocirugía se desarrolla en el cuarto año de la carrera de Medicina de la Universidad Pública de El Alto (U.P.E.A.), para brindar herramientas que permitan al futuro médico cirujano realizar diagnóstico y tratamiento de pacientes con enfermedades neurológicas en primer nivel de atención.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "",
+              "capitulos": [
+                "Capítulo 1: Introducción a la neurología y neurocirugía",
+                "Capítulo 2: Semiología neurológica y métodos de neurodiagnóstico"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "",
+              "capitulos": [
+                "Capítulo 3: Cefaleas y algias cráneo-faciales",
+                "Capítulo 4: Epilepsia y estado epiléptico",
+                "Capítulo 5: Lumbalgia, cervicalgia y radiculopatía",
+                "Capítulo 6: Accidente vásculo-encefálico",
+                "Capítulo 7: Hipertensión endocraneal",
+                "Capítulo 8: Trauma cráneo encefálico"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "",
+              "capitulos": [
+                "Capítulo 9: Demencias y deterioro cognitivo",
+                "Capítulo 10: Hidrocefalia",
+                "Capítulo 11: Infecciones del sistema nervioso central",
+                "Capítulo 12: Parasitosis del sistema nervioso",
+                "Capítulo 13: Muerte encefálica",
+                "Capítulo 14: Tumores del encéfalo",
+                "Capítulo 15: Malformaciones vasculares del sistema nervioso"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD IV",
+              "nombre_unidad": "",
+              "capitulos": [
+                "Capítulo 16: Enfermedades degenerativas de la columna vertebral",
+                "Capítulo 17: Trauma raquimedular",
+                "Capítulo 18: Infecciones raquimedulares",
+                "Capítulo 19: Neuropatías y polineuropatías periféricas",
+                "Capítulo 20: Enfermedades de la unión neuromuscular y miopatías",
+                "Capítulo 21: Esclerosis múltiple",
+                "Capítulo 22: Patología inflamatoria y metabólica raquimedular",
+                "Capítulo 23: Deformidades espinales"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "nombre": "PSICOPATOLOGIA – PSIQUIATRIA",
+          "sigla": "MED-403",
+          "carga_horaria": "400 hrs anuales",
+          "teoria": "10 hrs semanales",
+          "practica": "40 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Psicología medica",
+          "marco_refencial": "La Psiquiatría, en cuanto a la rama de la Medicina, estudia y trata los trastornos psíquicos y de comportamiento de los seres humanos. Es una especialidad básica de la Medicina tanto por su carácter troncal como por su interrelación e implicación con el resto de las especialidades médicas. Una base fundamental es el estudio de la Psicopatología  es el estudio científico sistemático de la experiencia, la cognición, la afectividad, el pensamiento y el comportamiento anormales, tanto en los aspectos etiológicos (factores causales, teorías y modelos etiológicos, etc.) como en los descriptivos. ",
+          "unidades": [
+            {
+              "numero_unidad": "",
+              "nombre_unidad": "Psicopatología",
+              "capitulos": [
+                "Capítulo 1: Entrevista psiquiátrica",
+                "Capítulo 2: Historia Clínica Psiquiátrica",
+                "Capítulo 3: Psicopatología de la conciencia",
+                "Capítulo 4: Psicopatología de la atención y orientación",
+                "Capítulo 5: Psicopatología de la memoria",
+                "Capítulo 6: Psicopatología del cálculo, abstracción",
+                "Capítulo 7: Psicopatología del lenguaje y pensamiento",
+                "Capítulo 8: Psicopatología de la afectividad",
+                "Capítulo 9: Psicopatología de la sensopercepción",
+                "Capítulo 10: Psicopatología de la psicomotricidad",
+                "Capítulo 11: Trastornos Mentales Orgánicos",
+                "Capítulo 12: Esquizofrenia",
+                "Capítulo 13: Otros trastornos psicóticos",
+                "Capítulo 14: Trastornos por consumo de sustancias",
+                "Capítulo 15: Trastornos de personalidad",
+                "Capítulo 16: Trastornos del humor",
+                "Capítulo 17: Trastornos del sueño",
+                "Capítulo 18: Trastorno de la conducta alimentaria",
+                "Capítulo 19: Trastornos sexuales",
+                "Capítulo 20: Suicidio",
+                "Capítulo 21: Trastornos de ansiedad",
+                "Capítulo 22: Trastornos del comportamiento y de las emociones de inicio en la infancia y adolescencia",
+                "Capítulo 23: Urgencias psiquiátricas",
+                "Capítulo 24: Psicofarmacología",
+                "Capítulo 25: Psicoterapia"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "nombre": "TRAUMATOLOGÍA – ORTOPEDIA",
+          "sigla": "MED-404",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "30 hrs",
+          "practica": "130 hrs ",
+          "meses": "",
+          "prerequisitos": "Cirugía I",
+          "marco_refencial": "La  Ortopedia y Traumatología es la rama de la medicina que se dedica al estudio de las lesiones del aparato locomotor, más  relacionado al  sistema musculo-esquelético. La especialidad es médico-quirúrgica, y los médicos que la practican se llaman traumatólogos o cirujanos ortopédicos. Su ámbito se extiende más allá del campo de las lesiones traumáticas; abarcando patologías de índole secuela post traumáticas. También participa en el diagnóstico de patologías musculo – esqueléticas en la edad infantil.  La Ortopedia  también  es  una  rama  de la  medicina, conocida  como  arte y ciencia  que  abarca el estudio de las enfermedades congénitas o adquiridas que afectan al aparato locomotor, especialmente de aquellas que precisan tratamiento con cirugía, prótesis u órtesis, y   se  ocupa  de la prevención, diagnóstico ,tratamiento y rehabilitación  de  las  diferentes  deformidades del sistema musculo-esquelético   en  la  economía humana. Desde las férulas de   la   época   de Hipócrates, pasando por Galeno a través de  la  historia, la ortopedia  y traumatología  ha  evolucionado  hasta  nuestros  días , ya  que  en la  actualidad   se  menciona  que  a mayor  tecnología ocurren más  accidentes; que a mayor velocidad  ocurren también más  accidentes , dejando  ver  que la  era de la traumatología  y ortopedia ha comenzado en el siglo XXI , y en la actualidad se aplica tanto   a los niños  como  también a los adultos. Los tratamientos quirúrgicos implican una acción sobre situaciones de mayor gravedad o que requieran cirugía como único medio de solución. Para ello se emplean: la reducción abierta, agujas de Kirchner y Steinmann, placas LCP y tornillos de osteosíntesis, dispositivos clavo-placa y tornillo-Ilizarov, monolaterales), injerto óseo, cementos óseos y prótesis para reemplazos articulares. Actualmente la especialidad se sub divide en sub especialidades o alta especialidad por segmentos enfocados principalmente al tratamiento de orden traumatológico y ortopédico, esto quiere decir que la especialidad es como muy pocas la que está constantemente actualizándose en cuestión de implantes y técnica quirúrgica, indicaciones y complicaciones. Por lo tanto   se hace   imprescindible su conocimiento para todos los estudiantes de medicina de pregrado con grado universitario ya que es imposible pensar a un médico egresado de nuestra casa de estudios sin el conocimiento básico y manejo de un o una paciente con patología traumatológica u ortopédica. ",
+          "unidades": [
+            {
+              "numero_unidad": "",
+              "nombre_unidad": "Contenidos Mínimos",
+              "capitulos": [
+                "Capítulo 1: Introducción, definiciones de Ortopedia y Traumatología",
+                "Capítulo 2: Histología y fisiología del tejido óseo y articular",
+                "Capítulo 3: Historia clínica en Traumatología y Ortopedia",
+                "Capítulo 4: Clasificación de las lesiones traumáticas",
+                "Capítulo 5: Principios de atención de las lesiones músculo-esqueléticas",
+                "Capítulo 6: Paciente politraumatizado",
+                "Capítulo 7: Fracturas y luxaciones del miembro superior (I)",
+                "Capítulo 8: Fracturas y luxaciones del miembro superior (II)",
+                "Capítulo 9: Lesiones traumáticas de la mano (III)",
+                "Capítulo 10: Fracturas y luxaciones de pelvis y del miembro inferior (I)",
+                "Capítulo 11: Fracturas intracapsulares de la cadera y del miembro inferior (II)",
+                "Capítulo 12: Luxo fracturas del tobillo y pie (III)",
+                "Capítulo 13: Lesiones traumáticas de la columna y de la caja torácica",
+                "Capítulo 14: Fracturas expuestas",
+                "Capítulo 15: Fracturas en los niños",
+                "Capítulo 16: Ortopedia del miembro superior",
+                "Capítulo 17: Ortopedia del miembro inferior y columna",
+                "Capítulo 18: Ortopedia en infecciones osteo-articulares",
+                "Capítulo 19: Tumores óseos",
+                "Capítulo 20: Ortopedia Infantil",
+                "Capítulo 21: Amputaciones"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "nombre": "SALUD PÚBLICA III",
+          "sigla": "MED-405",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "30 hrs ",
+          "practica": "130 hrs ",
+          "meses": "",
+          "prerequisitos": "Salud Publica II",
+          "marco_refencial": "La Universidad Pública de El Alto en respuesta al mandato constitucional de reconocimiento de la educación como la más alta función del Estado y un derecho de todos los ciudadanos, forma profesionales integrales altamente calificados en todas las disciplinas del conocimiento científico tecnológico, con conciencia crítica y reflexiva, capaces de crear, adaptar y transformar la realidad en que viven; desarrollando la investigación productiva para fomentar el desarrollo y responder a las necesidades culturales, sociales, económicas y políticas de El Alto y del País. Antiguamente en el mundo predominaban las enfermedades infecciosas las cuales causaron grandes epidemias como por ejemplo la peste, viruela, etc. Si bien no se contaban con los recursos tecnológicos en esas épocas ya se realizaban diversos estudios para tratar de dar alguna explicación y solución hacia los fenómenos que ponían en riesgo la salud de la población como por ejemplo el tratamiento del agua para evitar el cólera (Jhon Snow) la aplicación de una vacuna en la prevención de la viruela (Edward Jenner). Actualmente se han erradicado muchas enfermedades que ponían en riesgo a la humanidad con la consecuente mejor calidad de vida; dando así a una transición epidemiologia hacia las enfermedades no transmisibles como ser diabetes, artritis, cardiopatías, etc.  Las que hoy en día tiene mucha relevancia en el ámbito epidemiológico. Aun en nuestros tiempos la humanidad contempla riesgos en el cuidado de su salud pese al adelanto científico, lo cual está demostrado con la actual pandemia del COVID 19 que ha afecta al mundo entero sin una solución a corto o mediano plazo. A manera general la epidemiologia inserta en la catedra de Salud Pública III contribuirá a desarrollar en los estudiantes de 4° año de medicina las competencias, descritas perfil competencial o competencia general del médico titulado de la UPEA en base a las Funciones Esenciales de la Salud Pública (FESP) definidas por la OPS/OMS enfocadas principalmente en: Seguimiento, evaluación y análisis de la situación de salud, Vigilancia de la Salud Pública, investigación y control de riesgos y daños a la salud, Promoción de la salud, Investigación en Salud Pública y la reducción del impacto de las emergencias y desastres en la salud. La catedra enfoca un interés particular en el desarrollo de conocimiento en áreas temáticas como la epidemiologia descriptiva, epidemiologia analítica, vigilancia epidemiologia, el afronte a emergencias y desastres al igual de la promoción de la salud. ",
+          "unidades": [
+            {
+              "numero_unidad": "",
+              "nombre_unidad": "Contenidos Mínimos",
+              "capitulos": [
+                "Unidad I: Fundamentos Básicos de Salud y Salud Pública",
+                "Unidad II: Características Demográficas de Interés Epidemiológico",
+                "Unidad III: Bioestadística Aplicada a la Epidemiología",
+                "Unidad IV: Análisis de Situación de Salud",
+                "Unidad V: Comité de Análisis de Información",
+                "Unidad VI: Introducción a la Epidemiología",
+                "Unidad VII: Mediciones en Epidemiología",
+                "Unidad VIII: Proceso Epidémico",
+                "Unidad IX: Estudios Descriptivos y Transversales",
+                "Unidad X: Protocolo de Investigación",
+                "Unidad XI: Vigilancia Epidemiológica y de Salud Pública",
+                "Unidad XII: Saneamiento Ambiental, Emergencias y Desastres",
+                "Unidad XIII: Epidemiología de Enfermedades Prevalentes en Bolivia",
+                "Unidad XIV: Evaluación de la Validez y Fiabilidad de las Pruebas Diagnósticas y de Cribado",
+                "Unidad XV: Historia Natural de la Enfermedad",
+                "Unidad XVI: Diseño y Tipos de Estudios Epidemiológicos",
+                "Unidad XVII: Muestra - Nociones Básicas de Muestreo",
+                "Unidad XVIII: Sesgos y Factores de Confusión",
+                "Unidad XIX: Estadística Inferencial y Pruebas de Hipótesis",
+                "Unidad XX: Causalidad",
+                "Unidad XXI: Estudios Experimentales",
+                "Unidad XXII: Estudios de Cohortes",
+                "Unidad XXIII: Estudios de Casos y Controles",
+                "Unidad XXIV: Revisiones Sistemáticas de Estudios Epidemiológicos"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "nombre": "INVESTIGACION III",
+          "sigla": "MED-406",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Metodologia de la investigación II",
+          "marco_refencial": "El estudio de la Investigación Estadística en Ciencias de la Salud, más conocida como Bioestadística, está motivado por la enorme incertidumbre que presentan los diferentes fenómenos a comprender, de ahí la necesidad de diseñar técnicas de recogida y tratamiento de datos con la idea de extraer la mayor información posible acerca de los mismos. Así, la Bioestadística podría entenderse como la metodología a seguir para aprender de las observaciones con el propósito de explicar los fenómenos biomédicos.",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Estadística Descriptiva",
+              "capitulos": [
+                "1. Estudio de una variable",
+                "1.1. Tablas de frecuencias",
+                "1.2. Representación gráfica",
+                "1.3. Valores típicos",
+                "1.3.1. Medidas de centralización",
+                "1.3.2. Medidas de posición",
+                "1.3.3. Medidas de dispersión",
+                "1.3.4. Medidas de forma",
+                "2. Relación entre variable numérica",
+                "2.1. Diagrama de dispersión",
+                "2.2. Coeficientes de correlación y determinación",
+                "2.3. Regresión lineal",
+                "2.3.1. Regresión lineal múltiple",
+                "2.3.2. Regresión no lineal",
+                "2.4. Relación entre una variable numérica y otra cualitativa",
+                "2.5. Análisis de la covarianza",
+                "3. Relación entre variables cualitativas",
+                "3.1. Estudio general de las tablas de contingencia",
+                "3.1.1. Tabla de contingencia",
+                "3.1.2. Diagrama de barras agrupadas",
+                "3.1.3. Coeficiente de contingencia C de Pearson",
+                "3.1.4. Tablas dos por dos",
+                "3.2. Estimando proporciones poblacionales",
+                "3.2.1. Diagramas de árbol y fórmula de Bayes",
+                "3.3. Factores de riesgo",
+                "3.3.1. Tipos de diseños",
+                "3.3.2. Medidas de riesgo",
+                "3.4. Diagnóstico clínico",
+                "3.4.1. Límites de normalidad",
+                "3.4.2. Fiabilidad de un procedimiento de diagnóstico"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Estadística Inferencial",
+              "capitulos": [
+                "4. Conceptos básicos de inferencia estadística",
+                "4.1. Parámetros poblacionales y muestrales",
+                "4.2. Muestreo",
+                "4.3. Estimación",
+                "4.4. Contraste de hipótesis",
+                "4.4.1. La importancia del tamaño muestral",
+                "4.5. Test de Student como ejemplo",
+                "4.6. Test paramétricos y test no paramétricos",
+                "4.6.1. Pruebas de normalidad",
+                "5. Métodos de inferencia estadística",
+                "5.1. Test de Student y Welch para muestras independientes",
+                "5.1.1. Alternativa de Mann-Whitney",
+                "5.1.2. Problemas de comparación de proporciones",
+                "5.2. Anova de un factor",
+                "5.2.1. Alternativa de Kruskal-Wallis",
+                "5.2.2. Método de Tukey",
+                "5.3. Test de Student para muestras apareadas",
+                "5.3.1. Alternativa de Wilcoxon",
+                "5.4. Test de correlación",
+                "5.4.1. Regresión múltiple",
+                "5.4.2. Intervalo de confianza para una predicción",
+                "5.4.3. Contrastes parciales y selección de variables",
+                "5.5. Test",
+                "5.5.1. Alternativa de Fisher",
+                "5.5.2. Inferencias para el Riesgo relativo y Odds Ratio",
+                "5.6. Algunas técnicas más avanzadas",
+                "5.6.1. Anova de dos factores",
+                "5.6.2. Regresión logística binaria"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "SPSS, STATA y EPIINFO",
+              "capitulos": [
+                "6. SPSS, STATA y EPIINFO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Quinto Ciclo",
+      "materias": [
+        {
+          "id": 28,
+          "nombre": "MEDICINA III",
+          "sigla": "MED-500",
+          "carga_horaria": "400 hrs anuales",
+          "teoria": "40 hrs",
+          "practica": "30 hrs",
+          "meses": "",
+          "prerequisitos": "Medicina II",
+          "marco_refencial": "",
+          "unidades": [
+            {
+              "numero_unidad": "ENDOCRINOLOGÍA",
+              "nombre_unidad": "Endocrinología",
+              "capitulos": [
+                "1. Eje hipotálamo-hipófisis",
+                "2. Tiroides",
+                "3. Paratiroides y metabolismo fósforo y calcio",
+                "4. Suprarrenales",
+                "5. Hipertensión de origen endocrino",
+                "6. Diabetes mellitus",
+                "7. Obesidad",
+                "8. Dislipidemias",
+                "9. Síndrome metabólico",
+                "10. Endocrinopatía múltiple",
+                "11. Gónadas"
+              ]
+            },
+            {
+              "numero_unidad": "GASTROENTEROLOGÍA",
+              "nombre_unidad": "Gastroenterología",
+              "capitulos": [
+                "1. Historia Clínica en Gastroenterología",
+                "2. Patología esófago gástrica",
+                "3. Enfermedad por reflujo gastroesofágico y Esofagitis por reflujo",
+                "4. Cáncer de Esófago",
+                "5. Esofagitis cáustica",
+                "6. Trastornos motores del esófago",
+                "7. Gastritis aguda y crónica. Gastropatías",
+                "8. Úlcera péptica",
+                "9. Cáncer gástrico",
+                "10. Hemorragia digestiva alta",
+                "11. Patología de intestino delgado y grueso",
+                "12. Dispepsia: Síndrome de Intestino irritable",
+                "13. Síndrome diarreico Agudo y Crónico",
+                "14. Estreñimiento crónico habitual",
+                "15. Enfermedad Inflamatoria Intestinal",
+                "16. Enfermedad diverticular de colon",
+                "17. Tuberculosis Intestinal",
+                "18. Cáncer de colon",
+                "19. Patología Hígado y Páncreas",
+                "20. Enfermedad Hepática alcohólica crónica",
+                "21. Síndrome de Hipertensión Portal",
+                "22. Hemorragia digestiva baja",
+                "23. Síndrome Ascítico edematoso",
+                "24. Encefalopatía hepática",
+                "25. Tumores Hepáticos",
+                "26. Hepatitis viral Aguda",
+                "27. Cirrosis biliar primaria, colangitis esclerosante, hepatitis autoinmune",
+                "28. Pancreatitis aguda y Pancreatitis crónica",
+                "29. Cáncer de Páncreas"
+              ]
+            },
+            {
+              "numero_unidad": "HEMATOLOGÍA",
+              "nombre_unidad": "Hematología",
+              "capitulos": [
+                "1. Historia Clínica Hematológica",
+                "2. Hematopoyesis y Hemograma",
+                "3. Anemia Ferropénica",
+                "4. Anemia Megaloblástica",
+                "5. Anemia de Enfermedades Crónicas",
+                "6. Anemia Secundaria a Insuficiencia Renal Crónica",
+                "7. Anemia Aplásica",
+                "8. Síndrome Hemolítico",
+                "9. Esferocitosis Hereditaria",
+                "10. Deficiencia de la Glucosa 6 Fosfato Deshidrogenasa",
+                "11. Anemia Hemolítica Autoinmune",
+                "12. Enfermedad Hemolítica del Recién Nacido",
+                "13. Eritrocitosis Secundaria",
+                "14. Talasemia",
+                "15. Trastornos de la Hemostasia",
+                "16. Púrpura Trombocitopénica Autoinmunitaria",
+                "17. Hemofilia A",
+                "18. Estados de Hipercoagulabilidad",
+                "19. Trombofilia",
+                "20. Coagulación Intravascular Diseminada",
+                "21. Hemocomponentes",
+                "22. Concentrado de Eritrocitos",
+                "23. Concentrado de Plaquetas",
+                "24. Plasma Fresco Congelado",
+                "25. Crioprecipitados",
+                "26. Sangre Entera",
+                "27. Reacciones Transfusionales Inmediatas",
+                "28. Reacciones Transfusionales Mediatas",
+                "29. Grupos Sanguíneos",
+                "30. Principios de Quimioterapia",
+                "31. Síndrome Mielodisplásico",
+                "32. Leucemia Linfoblástica Aguda",
+                "33. Leucemia Mieloblástica Aguda",
+                "34. Síndromes Linfoproliferativos Crónicos",
+                "35. Leucemia Linfocítica Crónica",
+                "36. Linfoma Hodgkin",
+                "37. Linfoma No Hodgkin",
+                "38. Síndromes Mieloproliferativos Crónicos",
+                "39. Leucemia Mieloide Crónica",
+                "40. Policitemia Vera",
+                "41. Trombocitemia Esencial",
+                "42. Mielofibrosis Idiopática",
+                "43. Mieloma Múltiple",
+                "44. Trasplante de Médula Ósea"
+              ]
+            },
+            {
+              "numero_unidad": "NEFROLOGÍA",
+              "nombre_unidad": "Nefrología",
+              "capitulos": [
+                "1. Generalidades en Nefrología y Mecanismos de Agresión Renal",
+                "2. Enfoque Clínico del Paciente con Enfermedad Renal",
+                "3. Alteraciones del Equilibrio Hidroelectrolítico I: Sodio y Potasio",
+                "4. Alteraciones del Equilibrio Ácido Hidroelectrolítico II: Calcio y Magnesio",
+                "5. Alteración del Medio Interno y Ácido Base: Acidosis y Alcalosis Metabólica",
+                "6. Síndrome Nefrítico",
+                "7. Síndrome Nefrótico",
+                "8. Glomerulonefritis Primaria I: Cambios Mínimos, Focal Segmentaria, Membrano Proliferativa",
+                "9. Glomerulonefritis Primaria II: IgA, Membranosa",
+                "10. Nefropatía Lúpica",
+                "11. Enfermedad Renal Diabética",
+                "12. Riñón y Embarazo",
+                "13. Infecciones Urinarias",
+                "14. Litiasis Renal",
+                "15. Nefropatía Hipertensiva",
+                "16. Riñón en las Enfermedades Sistémicas; Síndrome Cardiorenal y Síndrome Hepatorenal",
+                "17. Nefropatías Hereditarias",
+                "18. Injuria Renal Aguda",
+                "19. Enfermedad Renal Crónica",
+                "20. Terapias de Reemplazo Renal"
+              ]
+            },
+            {
+              "numero_unidad": "ONCOLOGÍA CLÍNICA",
+              "nombre_unidad": "Oncología Clínica",
+              "capitulos": [
+                "1. Introducción, Etiología, Epidemiología, Prevención, Diagnóstico Precoz de Tumores Sólidos e Historia Clínica Oncológica",
+                "2. Biología Molecular en Oncología e Investigación Clínica",
+                "3. Principios en el Diagnóstico del Cáncer, Anatomía Patológica, Radiología, Resonancia y Medicina Nuclear, Estratificación TNM 2018",
+                "4. Principios Básicos en el Tratamiento del Cáncer",
+                "5. Complicaciones Asociadas al Tratamiento Oncológico",
+                "6. Tumores SNC",
+                "7. Tumores de Cabeza y Cuello",
+                "8. Tumores de Mama",
+                "9. Tumores de Pulmón, Pleura y Mediastino",
+                "10. Tumores Gastrointestinales I; Esófago, Estómago y Colorrectal",
+                "11. Tumores Gastrointestinales II; Hepatobiliopancreáticos",
+                "12. Tumores Urogenitales",
+                "13. Tumores Ginecológicos",
+                "14. Tumores de Partes Blandas y Óseos",
+                "15. Tumores de Piel y Primario Oculto"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "nombre": "CIRUGÍA III",
+          "sigla": "MED-501",
+          "carga_horaria": "155 hrs anuales",
+          "teoria": "35 hrs",
+          "practica": "120 hrs",
+          "meses": "",
+          "prerequisitos": "Medicina II",
+          "marco_refencial": "",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERO",
+              "nombre_unidad": "Anestesiología",
+              "capitulos": [
+                "1. Generalidades y conceptos de Anestesiología",
+                "2. Valoración anestésica y medicina preparatoria",
+                "3. Manejo de vía aérea",
+                "4. Monitorización",
+                "5. Accesos venosos periféricos y centrales",
+                "6. Anestésicos inhalatorios y endovenosos",
+                "7. Problemas intraanestésicos y su manejo inmediato",
+                "8. Recuperación",
+                "9. Anestesia regional",
+                "10. Anestésicos locales",
+                "11. Intoxicación por anestésico local",
+                "12. Atención de paciente quemado",
+                "13. Control hemodinámico: shock anafiláctico e hipovolémico",
+                "14. Insuficiencia respiratoria",
+                "15. Terapia transfusional",
+                "16. Dolor agudo y crónico",
+                "17. Reanimación cardiopulmonar básica y avanzada en adulto",
+                "18. Reanimación cardiopulmonar avanzada en paciente pediátrico",
+                "19. Reanimación cardiopulmonar en casos especiales"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDO",
+              "nombre_unidad": "Cirugía de Abdomen",
+              "capitulos": [
+                "1. Pared abdominal",
+                "2. Peritoneo: anatomía y fisiología",
+                "3. Hernias y eventraciones",
+                "4. Cavidad peritoneal",
+                "5. Enfermedad de reflujo gastroesofágico",
+                "6. Divertículo esofágico",
+                "7. Tumores esofágicos",
+                "8. Acalasia",
+                "9. Síndrome ulceroso péptico",
+                "10. Tumores gástricos",
+                "11. Anatomía: hígado, vías biliares y páncreas",
+                "12. Absceso hepático",
+                "13. Hidatidosis hepática",
+                "14. Litiasis vesicular",
+                "15. Colangitis, fístula biliar y quiste de colédoco",
+                "16. Estenosis benigna y maligna de vía biliar",
+                "17. Pancreatitis aguda",
+                "18. Síndrome ictérico obstructivo",
+                "19. Quiste y pseudoquiste pancreático",
+                "20. Pancreatitis crónica",
+                "21. Anatomía del intestino grueso y recto",
+                "22. Apendicitis aguda",
+                "23. Enfermedad diverticular de colon",
+                "24. Isquemia mesentérica",
+                "25. Obstrucción intestinal",
+                "26. Trauma abdominal",
+                "27. Enfermedad inflamatoria del intestino",
+                "28. Fístulas enterocutáneas",
+                "29. Hemorroides, abscesos anales, fisura y prolapso rectal",
+                "30. Soporte vital avanzado en trauma"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERO",
+              "nombre_unidad": "Oftalmología",
+              "capitulos": [
+                "1. Embriología y anatomía del globo ocular y órbita",
+                "2. Párpados",
+                "3. Aparato lagrimal",
+                "4. Conjuntiva",
+                "5. Córnea",
+                "6. Órbita",
+                "7. Glaucoma",
+                "8. Neurooftalmología",
+                "9. Estrabismo",
+                "10. Cristalino",
+                "11. Desprendimiento de retina",
+                "12. Retinopatía diabética",
+                "13. Retinopatía hipertensiva",
+                "14. Retinopatía del prematuro",
+                "15. Uveítis",
+                "16. Vítreo",
+                "17. Urgencias oftalmológicas",
+                "18. Exámenes de diagnóstico oftalmológicos"
+              ]
+            },
+            {
+              "numero_unidad": "CUARTO",
+              "nombre_unidad": "Otorrinolaringología",
+              "capitulos": [
+                "1. Examen funcional del oído",
+                "2. Patologías del pabellón auricular",
+                "3. Otitis externa",
+                "4. Otitis media aguda y crónica",
+                "5. Complicaciones de la otitis media aguda",
+                "6. Otoesclerosis",
+                "7. Anatomía de la nariz y fosas nasales",
+                "8. Epistaxis",
+                "9. Rinitis aguda y crónica",
+                "10. Sinusitis aguda y crónica",
+                "11. Cuerpos extraños en fosas nasales",
+                "12. Trauma facial y fractura nasal",
+                "13. Anatomía de boca y faringe",
+                "14. Faringitis aguda y crónica",
+                "15. Amigdalitis aguda y crónica",
+                "16. Complicaciones de las amigdalitis",
+                "17. Anatomía y fisiología de la laringe",
+                "18. Laringitis aguda y crónica",
+                "19. Pólipos y papiloma laríngeo",
+                "20. Parálisis de cuerda vocal"
+              ]
+            },
+            {
+              "numero_unidad": "QUINTO",
+              "nombre_unidad": "Urología",
+              "capitulos": [
+                "1. Cateterismo vesical",
+                "2. Semiología en Urología",
+                "3. Uropatía obstructiva I",
+                "4. Uropatía obstructiva II",
+                "5. Anomalías genitourinarias I",
+                "6. Anomalías genitourinarias II",
+                "7. Trauma genitourinario I y II",
+                "8. Infecciones urinarias inespecíficas I",
+                "9. Infecciones urinarias inespecíficas II",
+                "10. Tuberculosis genitourinaria",
+                "11. Litiasis urinaria",
+                "12. Tumores renales del adulto",
+                "13. Tumores de urotelio I y II",
+                "14. Hiperplasia benigna de próstata",
+                "15. Cáncer de próstata",
+                "16. Tumores de testículo",
+                "17. Tumores de pene y escroto",
+                "18. Tumores urológicos de la infancia",
+                "19. Fimosis y parafimosis",
+                "20. Fístulas del aparato urinario"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "nombre": "GINECOLOGIA – SALUD SEXUAL Y REPRODUCTIVA",
+          "sigla": "MED-502",
+          "carga_horaria": "400 hrs anuales",
+          "teoria": "40 hrs",
+          "practica": "30 hrs",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La asignatura de Ginecología es de gran relevancia social y profesional ya que la población femenina en Bolivia, forman parte importante en el crecimiento y desarrollo de nuestra    sociedad.  En  esta  asignatura, se  toma  un  modelo  educativo  basado  en competencias, desarrollando contenidos temáticos que les permita estar preparados en el aspecto cognitivo, procedimental y actitudinal para el perfeccionamiento de la competencia en el internado rotatorio “Competencia Perfecta”. En esta asignatura se le permite al estudiante desarrollar sus capacidades y estrategias en la identificación del problema de salud, manejo y referencia oportuna de la paciente de acuerdo al estado de salud y las patologías más frecuentes del aparato genital femenino que se presentan en las mujeres. Al concluir el curso el estudiante será capaz de demostrar y perfeccionar sus habilidades dentro del marco de los lineamientos de la ética médica en el internado rotatorio en la promoción, prevención, diagnóstico, tratamiento y criterios de referencia oportuna de los problemas de salud de la mujer identificados en el primer nivel de atención. ",
+          "unidades": [
+            {
+              "numero_unidad": "Contenidos Mínimos",
+              "nombre_unidad": "Ginecología",
+              "capitulos": [
+                "Capítulo I: Anatomía del aparato genital femenino - Genitales externos, internos y glándula mamaria",
+                "Capítulo II: Desarrollo embriológico del aparato genital femenino e histología funcional y dinámica",
+                "Capítulo III: Semiología ginecológica",
+                "Capítulo IV: Ciclo menstrual y sus trastornos",
+                "Capítulo V: Ovulación - Ciclo monofásico, bifásico, trifásico y sus trastornos",
+                "Capítulo VI: Amenorrea",
+                "Capítulo VII: Fisiología y modificaciones en el embarazo",
+                "Capítulo VIII: Infección urinaria y embarazo",
+                "Capítulo IX: Emesis - Hiperemesis gravídica",
+                "Capítulo X: Trauma genital",
+                "Capítulo XI: Violencia sexual",
+                "Capítulo XII: Enfermedades de transmisión sexual",
+                "Capítulo XIII: Flujos",
+                "Capítulo XIV: Aborto",
+                "Capítulo XV: Aspiración manual endouterina - Legrado uterino instrumental",
+                "Capítulo XVI: Enfermedad trofoblástica y coriocarcinoma",
+                "Capítulo XVII: Métodos anticonceptivos modernos",
+                "Capítulo XVIII: Lesiones precursoras cervicales",
+                "Capítulo XIX: Endometriosis y tuberculosis genital",
+                "Capítulo XX: Enfermedad pélvica inflamatoria",
+                "Capítulo XXI: Sangrado uterino anormal",
+                "Capítulo XXII: Patología de mama",
+                "Capítulo XXIII: Atención de paciente ginecológica con COVID-19",
+                "Capítulo XXIV: Aspectos legales en ginecología"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "nombre": "OBSTETRICIA",
+          "sigla": "MED-503",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "30 hrs",
+          "practica": "40 hrs",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": " La Obstetricia es la especialidad médica parte de la Medicina que se ocupa de la vigilancia y el cuidado del embarazo, Parto y puerperio, además de comprender los aspectos psicológicos de la maternidad. Se ocupa de diagnosticar, tratar y resolver exitosamente aquellos aspectos relacionados con las complicaciones y otras patologías presentes en la mujer embarazada.",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Fisiología del embarazo",
+              "capitulos": [
+                "Capítulo 1: Fisiología de la fecundación",
+                "Capítulo 2: La placenta",
+                "Capítulo 3: Desarrollo embriofetal - Fisiología fetal",
+                "Capítulo 4: Modificaciones gravídicas generales y locales",
+                "Capítulo 5: Móvil fetal y pelvis ósea obstétrica",
+                "Capítulo 6: Semiología obstétrica",
+                "Capítulo 7: Control prenatal",
+                "Capítulo 8: Trabajo de parto",
+                "Capítulo 9: Mecanismo y atención de parto",
+                "Capítulo 10: Alumbramiento fisiológico",
+                "Capítulo 11: Puerperio fisiológico - Lactancia materna"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "Embarazo patológico",
+              "capitulos": [
+                "Capítulo 12: Hemorragias de la segunda mitad del embarazo",
+                "Capítulo 13: Embarazo múltiple",
+                "Capítulo 14: Estados hipertensivos gestacionales",
+                "Capítulo 15: Sufrimiento fetal agudo",
+                "Capítulo 16: Amenaza de parto prematuro",
+                "Capítulo 17: Rotura prematura de membranas",
+                "Capítulo 18: Distocias del canal óseo",
+                "Capítulo 19: Mecanismo de parto en presentación pelviana - Atención de parto",
+                "Capítulo 20: Distocia dinámica",
+                "Capítulo 21: Distocias de partes blandas y accidentes del parto",
+                "Capítulo 22: Tuberculosis y embarazo",
+                "Capítulo 23: Cardiopatía y embarazo",
+                "Capítulo 25: Puerperio patológico",
+                "Capítulo 26: Farmacoterapia en el embarazo",
+                "Capítulo 27: Operación cesárea",
+                "Capítulo 28: Patología infecciosa TORCH",
+                "Capítulo 29: Diabetes y embarazo",
+                "Capítulo 30: VIH y embarazo"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "nombre": "PEDIATRÍA",
+          "sigla": "MED-504",
+          "carga_horaria": "186 hrs anuales",
+          "teoria": "66 hrs",
+          "practica": "120 hrs",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "En medicina, la misión del Médico es restablecer la salud desde el nacimiento el cual fue encomendado a la Pediatría, en esta perspectiva, los médicos deben preparase de forma competente para adquirir los conocimientos  destrezas y habilidades necesarias para identificar la presencia de salud y enfermedad, lo cual es más crítico en los extremos de la vida, por ello surge Pediatría que es una especialidad dedicada a la atención del ser en crecimiento por lo cual el estudiante debe ser capaz de reconocer el proceso de salud enfermedad en este ámbito",
+          "unidades": [
+            {
+              "numero_unidad": "CONTENIDOS MÍNIMOS",
+              "nombre_unidad": "Pediatría",
+              "capitulos": [
+                "1. Expediente clínico",
+                "2. AIEPI neonatal",
+                "3. Examen físico del RN - Edad gestacional",
+                "4. RN pretermino",
+                "5. RN alto riesgo postérmino",
+                "6. Reanimación cardiopulmonar neonatal",
+                "7. SDRA del RN",
+                "8. Sepsis neonatal",
+                "9. TORCH - VIH/SIDA neonatal",
+                "10. Malformaciones del tubo neural",
+                "11. Ictericia neonatal",
+                "12. AIEPI-NUT",
+                "13. IRAS altas",
+                "14. Neumonía - Bronquiolitis - Asma bronquial",
+                "15. Inmunizaciones – Enfermedades exantemáticas",
+                "16. EDAS - Parasitosis",
+                "17. Tuberculosis infantil",
+                "18. Meningitis bacteriana",
+                "19. Hepatitis aguda - Falla hepática",
+                "20. Fiebre entérica - Salmonelosis",
+                "21. Rabia",
+                "22. Infección del tracto urinario",
+                "23. Malnutrición",
+                "24. Displasia de cadera",
+                "25. Traumatismo craneoencefálico",
+                "26. Fiebre en pediatría",
+                "27. Diagnóstico temprano del cáncer",
+                "28. Maltrato infantil",
+                "29. Dolor abdominal en pediatría",
+                "30. Enfermedades genéticas en pediatría",
+                "31. Adolescencia y pubertad",
+                "32. Intoxicaciones en pediatría",
+                "33. Exámenes complementarios en pediatría"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "nombre": "MEDICINA LEGAL – FORENSE",
+          "sigla": "MED-505",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "30 hrs",
+          "practica": "130 hrs",
+          "meses": "",
+          "prerequisitos": "",
+          "marco_refencial": "La asignatura de Medicina Legal en la Carrera de Medicina de la Universidad Pública de El Alto, está dirigida fundamentalmente al estudiante de medicina de último año e indirectamente al futuro médico, al que se le ofrece los temas de medicina legal para una sólida formación y participación con criterio médico legal, para que de esta manera aporten con el conocimiento científico médico legal en el esclarecimiento de los hechos médico legales y un proceso justo coadyuvando a conocer la verdad histórica de los hechos ante un hecho delictivo Por tanto, la asignatura de Medicina Legal es un curso teórico  – práctico, con un enfoque en base a competencias médico-legales, debido a que actualmente las Normativas Jurídicas otorgan obligaciones y responsabilidades a los profesionales médicos sin ser necesariamente especialistas en Medicina Legal.",
+          "unidades": [
+            {
+              "numero_unidad": "PARTE I",
+              "nombre_unidad": "Medicina Legal",
+              "capitulos": [
+                "Tema 1: Medicina Legal (Introducción al estudio de Medicina Legal)",
+                "Tema 2: Reseña histórica",
+                "Tema 3: Documentos medicolegales"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE II",
+              "nombre_unidad": "Medicina Legal Criminalística",
+              "capitulos": [
+                "Tema 1: Investigación en el escenario de la muerte",
+                "Tema 2: Identificación medicolegal",
+                "Tema 3: Identificación policial"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE III",
+              "nombre_unidad": "Medicina Legal Tanatológica",
+              "capitulos": [
+                "Tema 1: Muerte",
+                "Tema 2: Muerte sospechosa",
+                "Tema 3: Cadáver",
+                "Tema 4: Autopsia"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE IV",
+              "nombre_unidad": "Lesionología o Medicina Legal Traumatológica",
+              "capitulos": [
+                "Tema 1: Lesiones",
+                "Tema 2: Contusiones",
+                "Tema 3: Asfixias mecánicas",
+                "Tema 4: Heridas ocasionadas por arma blanca",
+                "Tema 5: Heridas ocasionadas por arma de fuego",
+                "Tema 6: Trauma térmico y trauma eléctrico"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE V",
+              "nombre_unidad": "Sexología Forense",
+              "capitulos": [
+                "Tema 1: Delitos contra la libertad sexual",
+                "Tema 2: Embarazo",
+                "Tema 3: Aborto",
+                "Tema 4: Infanticidio",
+                "Tema 5: Maltrato infantil",
+                "Tema 6: Violencia doméstica",
+                "Tema 7: Investigación de la paternidad"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE VI",
+              "nombre_unidad": "Medicina Legal Toxicológica",
+              "capitulos": [
+                "Tema 1: Toxicología general"
+              ]
+            },
+            {
+              "numero_unidad": "PARTE VII",
+              "nombre_unidad": "Deontología Médica o Bioética Médica",
+              "capitulos": [
+                "Tema 1: Bioética médica"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "nombre": "SALUD PÚBLICA IV  ",
+          "sigla": "MED-506",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "40 hrs",
+          "practica": "160 hrs",
+          "meses": "",
+          "prerequisitos": "Salud Publica III",
+          "marco_refencial": "La Facultad de Medicina tiene que responder al encargo social de formar Médicos Generales competentes en Salud Pública, entendiendo la Salud Pública como la ciencia y arte de mejorar la salud de las poblaciones es decir de prevenir enfermedades, prolongar la vida y promover la salud física, mental y social de las poblaciones a través de la intervención organizada de la sociedad. Incluye los esfuerzos para mantener la salud actuando sobre factores ambientales, de estilos de vida, biológicos humanos y de organización de los sistemas de salud. El Programa de Salud Pública IV es el resultado de diversos análisis; como son: la situación de salud del País y del Departamento de La Paz, fundamentalmente los nuevos paradigmas que en materia de Salud se desarrollan internacionalmente. En el País, y el Departamento de La Paz, los procesos de gestión sanitaria y las prestación de servicios de salud ha ganado extensión y complejidad; los perfiles epidemiológicos requieren de análisis y respuestas específicas, la prestación de los servicios demandan procesos de gestión que garanticen servicios ágiles de calidad y respondan a las particularidades culturales de nuestra población; del mismo modo, los sistemas de información - base fundamental para la vigilancia epidemiológica y la toma de decisiones en la administración de servicios - debe constituirse en un instrumento dinámico y asequible en todos los niveles de atención, que justifica plenamente los contenidos de Salud Pública IV.",
+          "unidades": [
+            {
+              "numero_unidad": "MÓDULO I",
+              "nombre_unidad": "Administración y Gerencia en Salud",
+              "capitulos": [
+                "1. Introducción y conceptos de la Administración y Gerencia en Salud",
+                "2. Planificación en salud y formulación de Plan de Salud",
+                "3. Técnicas de planificación y organización",
+                "4. Administración de sistemas de salud",
+                "5. Administración del sistema de salud Bolivia (sistemas de salud en Bolivia)",
+                "6. Dirección y Sistemas administrativos de control",
+                "7. Los alimentos y la salud",
+                "8. Calidad en salud",
+                "9. Derechos humanos y derecho a la salud",
+                "10. Administración de servicios de salud y administración hospitalaria",
+                "11. Modelos de gerencia en salud",
+                "12. Redes de salud",
+                "13. Estrategias mundiales en salud"
+              ]
+            },
+            {
+              "numero_unidad": "MÓDULO II",
+              "nombre_unidad": "Gestión de Servicios y Economía en Salud",
+              "capitulos": [
+                "14. Promoción de la demanda y oferta de los servicios de salud",
+                "15. Consulta externa y admisión hospitalaria",
+                "16. Departamentos de enfermería y nutrición",
+                "17. Seguridad social, financiamiento y prestaciones de la seguridad social",
+                "18. Fundamentos de la Economía de la Salud",
+                "19. Economía de la Salud en Bolivia",
+                "20. Nivel de vida y del nivel de salud"
+              ]
+            },
+            {
+              "numero_unidad": "MÓDULO III",
+              "nombre_unidad": "Saneamiento Ambiental y Ecología Sanitaria",
+              "capitulos": [
+                "21. Saneamiento ambiental",
+                "22. Conceptos básicos de ecología sanitaria",
+                "23. Estructuras y relaciones ecológicas",
+                "24. El medio ambiente y la contaminación",
+                "25. Factores biológicos del medio ambiente"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "nombre": "INVESTIGACION IV",
+          "sigla": "MED-507",
+          "carga_horaria": "200 hrs anuales",
+          "teoria": "3 hrs semanales",
+          "practica": "2 hrs semanales",
+          "meses": "",
+          "prerequisitos": "Investigación III",
+          "marco_refencial": "Investigación IV consiste en la búsqueda sistemática de información y de nuevos conocimientos. La investigación, al acelerar el ritmo de los adelantos en materia de salud atiende a dos objetivos esenciales y poderosos. En primer lugar, es necesaria la investigación básica o tradicional para generar nuevos conocimientos y tecnologías encauzados a problemas importantes de salud todavía por resolver. En segundo lugar, es necesaria la investigación aplicada en el proceso de identificar problemas prioritarios y de diseñar y evaluar las políticas y los programas que reporten los máximos beneficios para la salud, a base de utilizar los conocimientos actuales y los recursos disponibles, tanto de orden financiero como de personal. Por lo que la Medicina Basada en Evidencias es una metodología para obtener los mejores resultados clínicos, en bases objetivas. Se ha extendido para mejorar y estandarizar los procesos de atención en la medicina pública y privada, mejorando la eficiencia y optimizando los recursos. Se ha constituido como una herramienta indispensable en la toma de decisiones de políticas públicas de salud. ",
+          "unidades": [
+            {
+              "numero_unidad": "UNIDAD I",
+              "nombre_unidad": "Medicina basada en la evidencia",
+              "capitulos": [
+                "1. Conceptos y aplicaciones de la epidemiología clínica y la medicina basada en evidencias",
+                "1.1. Ubicación de la asignatura - Conceptos básicos de epidemiología clínica y medicina basada en evidencias",
+                "1.2. Usos de la epidemiología clínica en la sistematización de la práctica clínica, revisión crítica de la literatura y en investigación clínica",
+                "1.3. Historia, filosofía y definición de la MBE",
+                "1.4. Estadística hospitalaria: morbilidad y mortalidad",
+                "2. Medicina basada en evidencias",
+                "2.1. Importancia de la MBE en la práctica de la medicina",
+                "2.2. Práctica médica reflexiva - Pensamiento crítico - Necesidades de información del médico",
+                "2.3. Pasos de la medicina basada en evidencias",
+                "2.4. Formulación de preguntas clínicas contestables - Uso del método PICO",
+                "2.5. Búsqueda de información clínica relevante - Estrategias de búsqueda",
+                "2.6. Evaluación crítica de la información encontrada - Introducción a las guías del usuario de la literatura médica",
+                "2.7. Cómo analizar un artículo",
+                "2.8. Aplicación de la evidencia en el paciente y la práctica clínica",
+                "3. Observaciones y mediciones clínicas",
+                "3.1. Concepto de medición - Incertidumbre en el trabajo clínico",
+                "3.2. Fuentes de variabilidad en las mediciones: sujeto observado, instrumento empleado, el observador, el ambiente en que se realizan",
+                "3.3. Validez y confiabilidad de la información",
+                "3.4. Error sistemático y error aleatorio",
+                "3.5. Tipos de sesgo y formas de controlarlos",
+                "3.6. Cálculo e interpretación de resultados de indicadores de concordancia (kappa)",
+                "3.7. Nociones de probabilidad en el proceso de atención del paciente - Contra valores de referencia",
+                "3.8. Criterios de normalidad de acuerdo con sujetos individuales por factores de riesgo"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD II",
+              "nombre_unidad": "Metaanálisis",
+              "capitulos": [
+                "4. Revisiones sistemáticas y metaanálisis",
+                "4.1. Conceptos básicos de revisiones sistemáticas y metaanálisis",
+                "4.2. Diferencias con revisiones narrativas - Necesidad de las revisiones sistemáticas en ciencias de la salud",
+                "4.3. Interpretación de resultados de metaanálisis - Análisis de subgrupos - Evaluación crítica de revisiones sistemáticas y metaanálisis",
+                "4.4. Limitaciones de los metaanálisis - Sesgo de publicación - La colaboración Cochrane",
+                "5. Causalidad",
+                "5.1. Concepto de causalidad",
+                "5.2. La causalidad del proceso salud-enfermedad en el paciente individual",
+                "5.3. Análisis de medidas de asociación: Riesgo atribuible, riesgo relativo, razón de momios, riesgo atribuible poblacional",
+                "5.4. Aplicación de criterios de causalidad"
+              ]
+            },
+            {
+              "numero_unidad": "UNIDAD III",
+              "nombre_unidad": "Elaboración de artículos",
+              "capitulos": [
+                "6. Artículos originales",
+                "6.1. La redacción científica",
+                "6.2. El artículo científico",
+                "6.3. El proyecto de investigación científica",
+                "7. Artículos de revisión",
+                "7.1. Tipos de revisiones",
+                "7.2. Etapas en la elaboración de un artículo de revisión",
+                "7.3. Objetivos de revisión",
+                "7.4. Revisión bibliográfica",
+                "7.5. Organización de la información",
+                "7.6. La estructura",
+                "7.7. Evaluación de un artículo de revisión",
+                "8. Redacción de artículos",
+                "8.1. Partes de un artículo",
+                "8.2. Título",
+                "8.3. Resumen",
+                "8.4. Palabras clave",
+                "8.5. Introducción y objetivos del trabajo",
+                "8.6. Método de localización, selección y evaluación de estudios primarios - Desarrollo y discusión del tema",
+                "8.7. Conclusiones",
+                "9. Proceso editorial",
+                "9.1. ¿Qué es el proceso editorial?",
+                "9.2. Fase de recepción de artículos",
+                "9.3. Recepción y registro de la solicitud de publicación",
+                "9.4. El comité de redacción realizará una primera revisión para comprobar que se ajusta a los criterios y normas de publicación",
+                "9.5. Evaluación por pares ciegos",
+                "9.6. El tiempo máximo desde la recepción del artículo hasta el envío de la evaluación a los autores no será superior a los tres meses",
+                "9.7. Fase de revisión del artículo",
+                "9.8. Fase de edición"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "nombre": "MEDICINA DE EMERGENCIAS ",
+          "sigla": "MED-508",
+          "carga_horaria": "160 hrs anuales",
+          "teoria": "40 hrs",
+          "practica": "120 hrs",
+          "meses": "",
+          "prerequisitos": "Investigación III",
+          "marco_refencial": "Si bien el conocimiento especial y la capacidad en el tratamiento de las condiciones de emergencia datan de la antigüedad, la medicina de emergencia (EM) como especialidad tiene solo 50 años. El uso de ambulancias para transportar víctimas en el campo de batalla a un área de atención centralizada se inició en la década de 1790. La dotación de personal de un ED 24/7 se produjo por primera vez en los EE. UU.   En 1961.  Hasta el advenimiento de la formación especializada en la década de 1970, los DE generalmente eran atendidos por médicos de hospitales de manera rotativa. Servicios de ambulancia a menudo dirigidos por directores de funerarias, porque tenían vehículos que podían transportar personas horizontalmente. En el modelo angloamericano, la medicina de emergencia se ha convertido en una especialidad con su propia capacitación y certificación de la junta. Sin embargo, EM no existe como una especialidad en muchas naciones, y lamentablemente, ese enfoque sigue siendo perjudicial para el paciente con una emergencia de tiempo limitado, ya que puede no recibir la atención inicial adecuada y puede permanecer indiferenciado mientras se dirige al servicio adecuado.   En la década de 1980, la medicina de emergencia se convirtió en una de las especialidades de más rápido crecimiento y los departamentos de emergencia, especialmente en entornos urbanos, comenzaron a estar sobrepoblados con pacientes indigentes. El número anual de visitas al departamento de emergencia en este país ha aumentado prácticamente sin interrupción desde la década de 1950. Se estima que hay aproximadamente 5,000 departamentos de emergencia en los EE. UU. Y 42,000 médicos que ejercen dentro de ellos, que brindan atención a 136 millones de visitas anuales al DE. Actualmente, hay más de 170 residencias EM aprobadas en los Estados Unidos que matriculan a más de 1,800 médicos por año. La medicina de emergencia ha sido y sigue siendo una de las especialidades más competitivas para los estudiantes de medicina durante más de una década.",
+          "unidades": [
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Fundamentos de la Atención Prehospitalaria",
+              "capitulos": [
+                "Capítulo 1: Introducción a la emergencia - Historia Clínica en emergencias – Check list",
+                "Capítulo 2: Aspectos Médico Legales de la Atención en emergencias",
+                "Capítulo 3: Bioseguridad y Equipos de protección personal"
+              ]
+            },
+            {
+              "numero_unidad": "SEGUNDA UNIDAD",
+              "nombre_unidad": "Atención Inicial del Paciente",
+              "capitulos": [
+                "Capítulo 5: Evaluación de la Escena y Sistema de Comando de Incidentes (SCI)",
+                "Capítulo 6: Evaluación del Paciente y el Método de Triages (hospitalario y prehospitalario)",
+                "Capítulo 7: Soporte Vital Básico SVB en Adultos, Niños y Lactantes - Manejo del Desfibrilador Externo Automático DEA",
+                "Capítulo 8: Manejo inicial de vía aérea y ventilación (Dispositivos de vía aérea)"
+              ]
+            },
+            {
+              "numero_unidad": "TERCERA UNIDAD",
+              "nombre_unidad": "Acciones y Procedimientos en Emergencias Prehospitalarias",
+              "capitulos": [
+                "Capítulo 10: Cinemática de los traumatismos",
+                "Capítulo 12: Bleeding Control Basics - Heridas, Hemorragias y Shock - Técnicas de Canalización",
+                "Capítulo 13: Técnicas de inmovilización y traslado"
+              ]
+            },
+            {
+              "numero_unidad": "CUARTA UNIDAD",
+              "nombre_unidad": "Manejo del Paciente Crítico",
+              "capitulos": [
+                "Capítulo 14: Shock",
+                "Capítulo 15: Envenenamientos y reacciones alérgicas",
+                "Capítulo 16: Politraumatizado",
+                "Capítulo 17: Convulsiones y Trastornos convulsivos",
+                "Capítulo 18: Trastornos metabólicos e hipertensivos",
+                "Capítulo 19: Estado Mental Alterado (E.M.A.)",
+                "Capítulo 20: Examen ECOE Emergencias Prehospitalarias"
+              ]
+            },
+            {
+              "numero_unidad": "PRIMERA UNIDAD",
+              "nombre_unidad": "Conceptos Básicos en Medicina de Emergencias",
+              "capitulos": [
+                "Capítulo 1: Reconocimiento y valoración del paciente gravemente enfermo",
+                "Capítulo 2: Soporte Vital Avanzado adulto - Código azul",
+                "Capítulo 3: Sepsis en Urgencias",
+                "Capítulo 4: Hemorragia Digestiva en emergencias",
+                "Capítulo 5: Ultrasonografía en atención del paciente crítico"
+              ]
+            },
+            {
+              "numero_unidad": "MODULO II",
+              "nombre_unidad": "Emergencias Clínicas",
+              "capitulos": [
+                "Capítulo 6: Trastorno hidroelectrolítico y ácido base",
+                "Capítulo 7: Hipertensión arterial y crisis hipertensivas",
+                "Capítulo 8: Neumonía Adquirida En La Comunidad",
+                "Capítulo 9: Electrocardiograma y enfoque y manejo de las principales arritmias en urgencias",
+                "Capítulo 10: Transfusión de sangre y hemoderivados",
+                "Capítulo 11: Complicaciones agudas de la diabetes",
+                "Capítulo 12: Urgencias Toxicología clínica generalidades y tóxicos más comunes",
+                "Capítulo 13: Quemaduras"
+              ]
+            },
+            {
+              "numero_unidad": "MODULO III",
+              "nombre_unidad": "Emergencias Politraumatismo y/o Quirúrgicas",
+              "capitulos": [
+                "Capítulo 14: Manejo inicial del paciente politraumatizado en el estado de choque por Hemorragia",
+                "Capítulo 15: Traumatismo cráneo encefálico y medidas de neuroprotección en Urgencias",
+                "Capítulo 16: Trauma torácico y abdominal",
+                "Capítulo 17: Reanimación con control de daño",
+                "Capítulo 18: Traumatismo en el Embarazo",
+                "Capítulo 19: Transporte del paciente politraumatizado",
+                "Capítulo 20: Manejo del dolor"
+              ]
+            },
+            {
+              "numero_unidad": "MODULO IV",
+              "nombre_unidad": "Emergencias Misceláneas",
+              "capitulos": [
+                "Capítulo 21: Código Rojo",
+                "Capítulo 22: RCP Pediátrico"
+              ]
+            },
+            {
+              "numero_unidad": "PATOLOGÍA",
+              "nombre_unidad": "Patología en Emergencias",
+              "capitulos": [
+                "1. Reconocimiento y valoración del paciente gravemente enfermo",
+                "2. Soporte Vital Avanzado del adulto",
+                "3. Sepsis en Urgencias",
+                "4. Hemorragia Digestiva en Urgencias",
+                "5. Ultrasonografía en atención del paciente crítico",
+                "6. Trastornos hidroelectrolítico y ácido base",
+                "7. Hipertensión arterial y crisis hipertensivas",
+                "8. Neumonía Adquirida En La Comunidad",
+                "9. Electrocardiograma - Enfoque y manejo de las principales arritmias en urgencias",
+                "10. Transfusión de sangre y hemoderivados",
+                "11. Complicaciones agudas de la diabetes",
+                "12. Urgencias Toxicología - Generalidades y tóxicos más comunes",
+                "13. Quemaduras",
+                "14. Manejo inicial del paciente politraumatizado y en estado de choque por hemorragia",
+                "15. Traumatismo cráneo encefálico y medidas de neuroprotección en urgencias",
+                "16. Trauma torácico y abdominal",
+                "17. Reanimación con control de daño",
+                "18. Traumatismo en el embarazo",
+                "19. Transporte de paciente politraumatizado",
+                "20. Manejo del dolor",
+                "21. Código Rojo",
+                "22. RCP Pediátrico"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,8 +17,8 @@ const contactData = {
   horarios: {
     titulo: 'Horarios de Atención',
     dias: [
-      'Lunes a Viernes: Turno Mañana: 8:00 AM - 12:00 PM',
-      'Lunes a Viernes: Turno Tarde: 2:00 PM - 5:30 PM',
+      'Lunes a Viernes: Turno Mañana: 8:30 AM - 12:30 PM',
+      'Lunes a Viernes: Turno Tarde: 2:00 PM - 6:00 PM',
       'Sábados y Domingos: Cerrado'
     ]
   },

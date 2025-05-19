@@ -16,7 +16,7 @@ const TeamSection = ({ data, bgColor, variant, hr }) => {
     dots: true,
     infinite: true,
     speed: 1000,
-    slidesToShow: 4,
+    slidesToShow: 3,
     swipeToSlide: true,
     appendDots: (dots) => (
       <div>

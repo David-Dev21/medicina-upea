@@ -1,4 +1,4 @@
-"use client"
+ "use client"
 import { useEffect } from "react";
 import loadBackgroudImages from "../Common/loadBackgroudImages";
 import Image from "next/image";

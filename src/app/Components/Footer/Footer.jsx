@@ -10,13 +10,13 @@ import {
   FaWhatsapp,
   FaYoutube,
 } from 'react-icons/fa6';
-
+const year = new Date().getFullYear();
 const Footer = () => {
   const data = {
     backgroundImage: '/assets/img/footer_bg.jpg',
     logo: '/assets/img/logo-medicina.png',
     contactText:
-      'Horario de Atención: <br /> Lunes - Viernes: Turno Mañana: 8:00 AM - 12:00 PM <br /> Turno Tarde: 2:00 PM - 5:30 PM <br /> Sábados y Domingos: Cerrado',
+      'Horario de Atención: <br /> Lunes - Viernes: Turno Mañana: 8:30 AM - 12:30 PM <br /> Turno Tarde: 2:00 PM - 6:00 PM <br /> Sábados y Domingos: Cerrado',
     contactText2: 'Av. Sucre A, Villa Esperanza - El Alto',
     contactText3: '+591 2 2845236',
     facebookHref: 'https://www.facebook.com/p/Medicina-UPEA-Bolivia-La-Paz-El-Alto-100057259548064/?locale=es_LA',
@@ -126,24 +126,26 @@ const Footer = () => {
       </div>
 
       <div className="cs_footer_bottom cs_primary_bg">
-      <div className="container">
+        <div className="container">
           <div className="footer-wrapper d-flex align-items-center justify-content-between pb-0">
             <a href="#" id="scrollUp" className="scroll-icon">
               <i className="far fa-angle-double-up" />
             </a>
             <p className="mx-auto pt-2">
+              &copy; Universidad Publica de El Alto {year} | 
+        
               <a href="https://utic.upea.bo/"
                 target="_blank">
-              ©U-TIC 2025  
+                {" "}U-TIC 2025  
               </a>
-               {" "}| Desarrollado por
+                {" "}By Fernando Aguilar V1 &
               <a
                 href="https://www.linkedin.com/in/david-mamani-a3b745352/"
                 target="_blank"
                 className="ms-2"
               >
-                {" "}
-                RubenDavidMA
+                {""}
+                RubenDavidMA V2
               </a>
               <a
                 href="https://github.com/David-Dev21"
